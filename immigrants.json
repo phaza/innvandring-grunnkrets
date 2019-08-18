@@ -1,0 +1,4146 @@
+{
+    "02190101": {
+        "western-count": 54,
+        "non-western-count": 17,
+        "western-share": 20.769230769231,
+        "non-western-share": 6.5384615384615,
+        "immigrant-share": 27.307692307692,
+        "non-immigrant-share": 72.692307692308
+    },
+    "02190103": {
+        "western-count": 70,
+        "non-western-count": 12,
+        "western-share": 28.80658436214,
+        "non-western-share": 4.9382716049383,
+        "immigrant-share": 33.744855967078,
+        "non-immigrant-share": 66.255144032922
+    },
+    "02190104": {
+        "western-count": 20,
+        "non-western-count": 14,
+        "western-share": 16.528925619835,
+        "non-western-share": 11.570247933884,
+        "immigrant-share": 28.099173553719,
+        "non-immigrant-share": 71.900826446281
+    },
+    "02190105": {
+        "western-count": 32,
+        "non-western-count": 5,
+        "western-share": 24.242424242424,
+        "non-western-share": 3.7878787878788,
+        "immigrant-share": 28.030303030303,
+        "non-immigrant-share": 71.969696969697
+    },
+    "02190106": {
+        "western-count": 31,
+        "non-western-count": 6,
+        "western-share": 22.302158273381,
+        "non-western-share": 4.3165467625899,
+        "immigrant-share": 26.618705035971,
+        "non-immigrant-share": 73.381294964029
+    },
+    "02190107": {
+        "western-count": 27,
+        "non-western-count": 11,
+        "western-share": 18.620689655172,
+        "non-western-share": 7.5862068965517,
+        "immigrant-share": 26.206896551724,
+        "non-immigrant-share": 73.793103448276
+    },
+    "02190108": {
+        "western-count": 40,
+        "non-western-count": 22,
+        "western-share": 15.748031496063,
+        "non-western-share": 8.6614173228346,
+        "immigrant-share": 24.409448818898,
+        "non-immigrant-share": 75.590551181102
+    },
+    "02190109": {
+        "western-count": 41,
+        "non-western-count": 17,
+        "western-share": 27.702702702703,
+        "non-western-share": 11.486486486486,
+        "immigrant-share": 39.189189189189,
+        "non-immigrant-share": 60.810810810811
+    },
+    "02190110": {
+        "western-count": 86,
+        "non-western-count": 47,
+        "western-share": 29.251700680272,
+        "non-western-share": 15.986394557823,
+        "immigrant-share": 45.238095238095,
+        "non-immigrant-share": 54.761904761905
+    },
+    "02190111": {
+        "western-count": 38,
+        "non-western-count": 35,
+        "western-share": 17.351598173516,
+        "non-western-share": 15.981735159817,
+        "immigrant-share": 33.333333333333,
+        "non-immigrant-share": 66.666666666667
+    },
+    "02190112": {
+        "western-count": 40,
+        "non-western-count": 45,
+        "western-share": 17.391304347826,
+        "non-western-share": 19.565217391304,
+        "immigrant-share": 36.95652173913,
+        "non-immigrant-share": 63.04347826087
+    },
+    "02190113": {
+        "western-count": 47,
+        "non-western-count": 32,
+        "western-share": 19.583333333333,
+        "non-western-share": 13.333333333333,
+        "immigrant-share": 32.916666666667,
+        "non-immigrant-share": 67.083333333333
+    },
+    "02190114": {
+        "western-count": 75,
+        "non-western-count": 36,
+        "western-share": 27.272727272727,
+        "non-western-share": 13.090909090909,
+        "immigrant-share": 40.363636363636,
+        "non-immigrant-share": 59.636363636364
+    },
+    "02190115": {
+        "western-count": 41,
+        "non-western-count": 18,
+        "western-share": 15.129151291513,
+        "non-western-share": 6.6420664206642,
+        "immigrant-share": 21.771217712177,
+        "non-immigrant-share": 78.228782287823
+    },
+    "02190116": {
+        "western-count": 21,
+        "non-western-count": 17,
+        "western-share": 13.725490196078,
+        "non-western-share": 11.111111111111,
+        "immigrant-share": 24.83660130719,
+        "non-immigrant-share": 75.16339869281
+    },
+    "02190117": {
+        "western-count": 24,
+        "non-western-count": 10,
+        "western-share": 18.181818181818,
+        "non-western-share": 7.5757575757576,
+        "immigrant-share": 25.757575757576,
+        "non-immigrant-share": 74.242424242424
+    },
+    "02190118": {
+        "western-count": 39,
+        "non-western-count": 10,
+        "western-share": 15.725806451613,
+        "non-western-share": 4.0322580645161,
+        "immigrant-share": 19.758064516129,
+        "non-immigrant-share": 80.241935483871
+    },
+    "02190119": {
+        "western-count": 26,
+        "non-western-count": 11,
+        "western-share": 22.222222222222,
+        "non-western-share": 9.4017094017094,
+        "immigrant-share": 31.623931623932,
+        "non-immigrant-share": 68.376068376068
+    },
+    "02190120": {
+        "western-count": 59,
+        "non-western-count": 17,
+        "western-share": 29.064039408867,
+        "non-western-share": 8.3743842364532,
+        "immigrant-share": 37.43842364532,
+        "non-immigrant-share": 62.56157635468
+    },
+    "02190121": {
+        "western-count": 34,
+        "non-western-count": 8,
+        "western-share": 15.315315315315,
+        "non-western-share": 3.6036036036036,
+        "immigrant-share": 18.918918918919,
+        "non-immigrant-share": 81.081081081081
+    },
+    "02190122": {
+        "western-count": 40,
+        "non-western-count": 18,
+        "western-share": 21.739130434783,
+        "non-western-share": 9.7826086956522,
+        "immigrant-share": 31.521739130435,
+        "non-immigrant-share": 68.478260869565
+    },
+    "02190202": {
+        "western-count": 54,
+        "non-western-count": 60,
+        "western-share": 26.21359223301,
+        "non-western-share": 29.126213592233,
+        "immigrant-share": 55.339805825243,
+        "non-immigrant-share": 44.660194174757
+    },
+    "02190203": {
+        "western-count": 63,
+        "non-western-count": 11,
+        "western-share": 23.507462686567,
+        "non-western-share": 4.1044776119403,
+        "immigrant-share": 27.611940298507,
+        "non-immigrant-share": 72.388059701493
+    },
+    "02190204": {
+        "western-count": 45,
+        "non-western-count": 20,
+        "western-share": 19.230769230769,
+        "non-western-share": 8.5470085470085,
+        "immigrant-share": 27.777777777778,
+        "non-immigrant-share": 72.222222222222
+    },
+    "02190205": {
+        "western-count": 26,
+        "non-western-count": 18,
+        "western-share": 17.105263157895,
+        "non-western-share": 11.842105263158,
+        "immigrant-share": 28.947368421053,
+        "non-immigrant-share": 71.052631578947
+    },
+    "02190206": {
+        "western-count": 58,
+        "non-western-count": 24,
+        "western-share": 23.770491803279,
+        "non-western-share": 9.8360655737705,
+        "immigrant-share": 33.606557377049,
+        "non-immigrant-share": 66.393442622951
+    },
+    "02190207": {
+        "western-count": 44,
+        "non-western-count": "-",
+        "western-share": 23.529411764706,
+        "non-western-share": "-",
+        "immigrant-share": "-",
+        "non-immigrant-share": "-"
+    },
+    "02190208": {
+        "western-count": 42,
+        "non-western-count": 9,
+        "western-share": 23.204419889503,
+        "non-western-share": 4.9723756906077,
+        "immigrant-share": 28.17679558011,
+        "non-immigrant-share": 71.82320441989
+    },
+    "02190209": {
+        "western-count": 50,
+        "non-western-count": 13,
+        "western-share": 20.576131687243,
+        "non-western-share": 5.3497942386831,
+        "immigrant-share": 25.925925925926,
+        "non-immigrant-share": 74.074074074074
+    },
+    "02190210": {
+        "western-count": 48,
+        "non-western-count": 17,
+        "western-share": 22.641509433962,
+        "non-western-share": 8.0188679245283,
+        "immigrant-share": 30.660377358491,
+        "non-immigrant-share": 69.339622641509
+    },
+    "02190211": {
+        "western-count": 55,
+        "non-western-count": 15,
+        "western-share": 24.663677130045,
+        "non-western-share": 6.7264573991031,
+        "immigrant-share": 31.390134529148,
+        "non-immigrant-share": 68.609865470852
+    },
+    "02190212": {
+        "western-count": 33,
+        "non-western-count": 32,
+        "western-share": 16.417910447761,
+        "non-western-share": 15.92039800995,
+        "immigrant-share": 32.338308457711,
+        "non-immigrant-share": 67.661691542289
+    },
+    "02190213": {
+        "western-count": 34,
+        "non-western-count": 31,
+        "western-share": 14.406779661017,
+        "non-western-share": 13.135593220339,
+        "immigrant-share": 27.542372881356,
+        "non-immigrant-share": 72.457627118644
+    },
+    "02190215": {
+        "western-count": 51,
+        "non-western-count": 11,
+        "western-share": 18.75,
+        "non-western-share": 4.0441176470588,
+        "immigrant-share": 22.794117647059,
+        "non-immigrant-share": 77.205882352941
+    },
+    "02190217": {
+        "western-count": 6,
+        "non-western-count": 4,
+        "western-share": 15.384615384615,
+        "non-western-share": 10.25641025641,
+        "immigrant-share": 25.641025641026,
+        "non-immigrant-share": 74.358974358974
+    },
+    "02190218": {
+        "western-count": 7,
+        "non-western-count": "-",
+        "western-share": 7.2916666666667,
+        "non-western-share": "-",
+        "immigrant-share": "-",
+        "non-immigrant-share": "-"
+    },
+    "02190219": {
+        "western-count": 7,
+        "non-western-count": 0,
+        "western-share": 13.207547169811,
+        "non-western-share": 0,
+        "immigrant-share": 13.207547169811,
+        "non-immigrant-share": 86.792452830189
+    },
+    "02190220": {
+        "western-count": 35,
+        "non-western-count": 25,
+        "western-share": 15.28384279476,
+        "non-western-share": 10.917030567686,
+        "immigrant-share": 26.200873362445,
+        "non-immigrant-share": 73.799126637555
+    },
+    "02190221": {
+        "western-count": 51,
+        "non-western-count": 9,
+        "western-share": 38.345864661654,
+        "non-western-share": 6.7669172932331,
+        "immigrant-share": 45.112781954887,
+        "non-immigrant-share": 54.887218045113
+    },
+    "02190301": {
+        "western-count": 52,
+        "non-western-count": 18,
+        "western-share": 20.967741935484,
+        "non-western-share": 7.258064516129,
+        "immigrant-share": 28.225806451613,
+        "non-immigrant-share": 71.774193548387
+    },
+    "02190302": {
+        "western-count": 44,
+        "non-western-count": 6,
+        "western-share": 21.674876847291,
+        "non-western-share": 2.9556650246305,
+        "immigrant-share": 24.630541871921,
+        "non-immigrant-share": 75.369458128079
+    },
+    "02190303": {
+        "western-count": 77,
+        "non-western-count": 21,
+        "western-share": 24.838709677419,
+        "non-western-share": 6.7741935483871,
+        "immigrant-share": 31.612903225806,
+        "non-immigrant-share": 68.387096774194
+    },
+    "02190304": {
+        "western-count": 33,
+        "non-western-count": "-",
+        "western-share": 22.147651006711,
+        "non-western-share": "-",
+        "immigrant-share": "-",
+        "non-immigrant-share": "-"
+    },
+    "02190305": {
+        "western-count": 62,
+        "non-western-count": 22,
+        "western-share": 21.305841924399,
+        "non-western-share": 7.5601374570447,
+        "immigrant-share": 28.865979381443,
+        "non-immigrant-share": 71.134020618557
+    },
+    "02190306": {
+        "western-count": 149,
+        "non-western-count": 51,
+        "western-share": 31.837606837607,
+        "non-western-share": 10.897435897436,
+        "immigrant-share": 42.735042735043,
+        "non-immigrant-share": 57.264957264957
+    },
+    "02190307": {
+        "western-count": 31,
+        "non-western-count": 12,
+        "western-share": 24.21875,
+        "non-western-share": 9.375,
+        "immigrant-share": 33.59375,
+        "non-immigrant-share": 66.40625
+    },
+    "02190308": {
+        "western-count": 40,
+        "non-western-count": 22,
+        "western-share": 20.618556701031,
+        "non-western-share": 11.340206185567,
+        "immigrant-share": 31.958762886598,
+        "non-immigrant-share": 68.041237113402
+    },
+    "02190309": {
+        "western-count": 103,
+        "non-western-count": 29,
+        "western-share": 20.977596741344,
+        "non-western-share": 5.9063136456212,
+        "immigrant-share": 26.883910386965,
+        "non-immigrant-share": 73.116089613035
+    },
+    "02190310": {
+        "western-count": 72,
+        "non-western-count": 52,
+        "western-share": 23.076923076923,
+        "non-western-share": 16.666666666667,
+        "immigrant-share": 39.74358974359,
+        "non-immigrant-share": 60.25641025641
+    },
+    "02190311": {
+        "western-count": 139,
+        "non-western-count": 51,
+        "western-share": 24.343257443082,
+        "non-western-share": 8.9316987740806,
+        "immigrant-share": 33.274956217163,
+        "non-immigrant-share": 66.725043782837
+    },
+    "02190312": {
+        "western-count": 59,
+        "non-western-count": 30,
+        "western-share": 17.559523809524,
+        "non-western-share": 8.9285714285714,
+        "immigrant-share": 26.488095238095,
+        "non-immigrant-share": 73.511904761905
+    },
+    "02190313": {
+        "western-count": 180,
+        "non-western-count": 53,
+        "western-share": 24.861878453039,
+        "non-western-share": 7.3204419889503,
+        "immigrant-share": 32.182320441989,
+        "non-immigrant-share": 67.817679558011
+    },
+    "02190314": {
+        "western-count": 108,
+        "non-western-count": 44,
+        "western-share": 24.601366742597,
+        "non-western-share": 10.02277904328,
+        "immigrant-share": 34.624145785877,
+        "non-immigrant-share": 65.375854214123
+    },
+    "02190315": {
+        "western-count": 106,
+        "non-western-count": 26,
+        "western-share": 30.028328611898,
+        "non-western-share": 7.3654390934844,
+        "immigrant-share": 37.393767705382,
+        "non-immigrant-share": 62.606232294618
+    },
+    "02190316": {
+        "western-count": 95,
+        "non-western-count": 42,
+        "western-share": 20.518358531317,
+        "non-western-share": 9.0712742980562,
+        "immigrant-share": 29.589632829374,
+        "non-immigrant-share": 70.410367170626
+    },
+    "02190401": {
+        "western-count": 73,
+        "non-western-count": 35,
+        "western-share": 33.181818181818,
+        "non-western-share": 15.909090909091,
+        "immigrant-share": 49.090909090909,
+        "non-immigrant-share": 50.909090909091
+    },
+    "02190404": {
+        "western-count": 64,
+        "non-western-count": 18,
+        "western-share": 23.443223443223,
+        "non-western-share": 6.5934065934066,
+        "immigrant-share": 30.03663003663,
+        "non-immigrant-share": 69.96336996337
+    },
+    "02190405": {
+        "western-count": 80,
+        "non-western-count": 19,
+        "western-share": 23.880597014925,
+        "non-western-share": 5.6716417910448,
+        "immigrant-share": 29.55223880597,
+        "non-immigrant-share": 70.44776119403
+    },
+    "02190407": {
+        "western-count": 177,
+        "non-western-count": 47,
+        "western-share": 30.729166666667,
+        "non-western-share": 8.1597222222222,
+        "immigrant-share": 38.888888888889,
+        "non-immigrant-share": 61.111111111111
+    },
+    "02190408": {
+        "western-count": 66,
+        "non-western-count": 63,
+        "western-share": 21.153846153846,
+        "non-western-share": 20.192307692308,
+        "immigrant-share": 41.346153846154,
+        "non-immigrant-share": 58.653846153846
+    },
+    "02190409": {
+        "western-count": 65,
+        "non-western-count": 27,
+        "western-share": 15.294117647059,
+        "non-western-share": 6.3529411764706,
+        "immigrant-share": 21.647058823529,
+        "non-immigrant-share": 78.352941176471
+    },
+    "02190411": {
+        "western-count": 183,
+        "non-western-count": 68,
+        "western-share": 27.727272727273,
+        "non-western-share": 10.30303030303,
+        "immigrant-share": 38.030303030303,
+        "non-immigrant-share": 61.969696969697
+    },
+    "02190414": {
+        "western-count": 38,
+        "non-western-count": 18,
+        "western-share": 21.468926553672,
+        "non-western-share": 10.169491525424,
+        "immigrant-share": 31.638418079096,
+        "non-immigrant-share": 68.361581920904
+    },
+    "02190415": {
+        "western-count": 133,
+        "non-western-count": 53,
+        "western-share": 27.593360995851,
+        "non-western-share": 10.995850622407,
+        "immigrant-share": 38.589211618257,
+        "non-immigrant-share": 61.410788381743
+    },
+    "02190417": {
+        "western-count": 106,
+        "non-western-count": 94,
+        "western-share": 17.578772802653,
+        "non-western-share": 15.58872305141,
+        "immigrant-share": 33.167495854063,
+        "non-immigrant-share": 66.832504145937
+    },
+    "02190418": {
+        "western-count": 45,
+        "non-western-count": 15,
+        "western-share": 30.201342281879,
+        "non-western-share": 10.06711409396,
+        "immigrant-share": 40.268456375839,
+        "non-immigrant-share": 59.731543624161
+    },
+    "02190419": {
+        "western-count": 24,
+        "non-western-count": 5,
+        "western-share": 30.379746835443,
+        "non-western-share": 6.3291139240506,
+        "immigrant-share": 36.708860759494,
+        "non-immigrant-share": 63.291139240506
+    },
+    "02190420": {
+        "western-count": 56,
+        "non-western-count": 23,
+        "western-share": 19.377162629758,
+        "non-western-share": 7.9584775086505,
+        "immigrant-share": 27.335640138408,
+        "non-immigrant-share": 72.664359861592
+    },
+    "02190421": {
+        "western-count": 9,
+        "non-western-count": "-",
+        "western-share": 29.032258064516,
+        "non-western-share": "-",
+        "immigrant-share": "-",
+        "non-immigrant-share": "-"
+    },
+    "02190422": {
+        "western-count": 95,
+        "non-western-count": 31,
+        "western-share": 25.956284153005,
+        "non-western-share": 8.4699453551913,
+        "immigrant-share": 34.426229508197,
+        "non-immigrant-share": 65.573770491803
+    },
+    "02190423": {
+        "western-count": 58,
+        "non-western-count": 30,
+        "western-share": 25.327510917031,
+        "non-western-share": 13.100436681223,
+        "immigrant-share": 38.427947598253,
+        "non-immigrant-share": 61.572052401747
+    },
+    "02190424": {
+        "western-count": 34,
+        "non-western-count": 22,
+        "western-share": 25,
+        "non-western-share": 16.176470588235,
+        "immigrant-share": 41.176470588235,
+        "non-immigrant-share": 58.823529411765
+    },
+    "02190425": {
+        "western-count": 57,
+        "non-western-count": 18,
+        "western-share": 29.081632653061,
+        "non-western-share": 9.1836734693878,
+        "immigrant-share": 38.265306122449,
+        "non-immigrant-share": 61.734693877551
+    },
+    "02190426": {
+        "western-count": 35,
+        "non-western-count": 3,
+        "western-share": 29.661016949153,
+        "non-western-share": 2.5423728813559,
+        "immigrant-share": 32.203389830508,
+        "non-immigrant-share": 67.796610169492
+    },
+    "02190427": {
+        "western-count": 39,
+        "non-western-count": 19,
+        "western-share": 25.324675324675,
+        "non-western-share": 12.337662337662,
+        "immigrant-share": 37.662337662338,
+        "non-immigrant-share": 62.337662337662
+    },
+    "02190428": {
+        "western-count": 31,
+        "non-western-count": 10,
+        "western-share": 27.927927927928,
+        "non-western-share": 9.009009009009,
+        "immigrant-share": 36.936936936937,
+        "non-immigrant-share": 63.063063063063
+    },
+    "02190429": {
+        "western-count": 59,
+        "non-western-count": 49,
+        "western-share": 19.407894736842,
+        "non-western-share": 16.118421052632,
+        "immigrant-share": 35.526315789474,
+        "non-immigrant-share": 64.473684210526
+    },
+    "02190430": {
+        "western-count": 18,
+        "non-western-count": 4,
+        "western-share": 20.93023255814,
+        "non-western-share": 4.6511627906977,
+        "immigrant-share": 25.581395348837,
+        "non-immigrant-share": 74.418604651163
+    },
+    "02190431": {
+        "western-count": 49,
+        "non-western-count": 10,
+        "western-share": 25.128205128205,
+        "non-western-share": 5.1282051282051,
+        "immigrant-share": 30.25641025641,
+        "non-immigrant-share": 69.74358974359
+    },
+    "02190432": {
+        "western-count": 35,
+        "non-western-count": 16,
+        "western-share": 36.842105263158,
+        "non-western-share": 16.842105263158,
+        "immigrant-share": 53.684210526316,
+        "non-immigrant-share": 46.315789473684
+    },
+    "02190501": {
+        "western-count": 3,
+        "non-western-count": "-",
+        "western-share": 11.111111111111,
+        "non-western-share": 0,
+        "immigrant-share": 11.111111111111,
+        "non-immigrant-share": 88.888888888889
+    },
+    "02190503": {
+        "western-count": 46,
+        "non-western-count": 7,
+        "western-share": 26.436781609195,
+        "non-western-share": 4.0229885057471,
+        "immigrant-share": 30.459770114943,
+        "non-immigrant-share": 69.540229885057
+    },
+    "02190504": {
+        "western-count": 54,
+        "non-western-count": 3,
+        "western-share": 27.272727272727,
+        "non-western-share": 1.5151515151515,
+        "immigrant-share": 28.787878787879,
+        "non-immigrant-share": 71.212121212121
+    },
+    "02190505": {
+        "western-count": 40,
+        "non-western-count": 20,
+        "western-share": 14.035087719298,
+        "non-western-share": 7.0175438596491,
+        "immigrant-share": 21.052631578947,
+        "non-immigrant-share": 78.947368421053
+    },
+    "02190506": {
+        "western-count": 35,
+        "non-western-count": 24,
+        "western-share": 18.324607329843,
+        "non-western-share": 12.565445026178,
+        "immigrant-share": 30.890052356021,
+        "non-immigrant-share": 69.109947643979
+    },
+    "02190507": {
+        "western-count": 20,
+        "non-western-count": 11,
+        "western-share": 15.625,
+        "non-western-share": 8.59375,
+        "immigrant-share": 24.21875,
+        "non-immigrant-share": 75.78125
+    },
+    "02190508": {
+        "western-count": 82,
+        "non-western-count": 34,
+        "western-share": 16.942148760331,
+        "non-western-share": 7.0247933884298,
+        "immigrant-share": 23.96694214876,
+        "non-immigrant-share": 76.03305785124
+    },
+    "02190509": {
+        "western-count": 79,
+        "non-western-count": 46,
+        "western-share": 26.072607260726,
+        "non-western-share": 15.181518151815,
+        "immigrant-share": 41.254125412541,
+        "non-immigrant-share": 58.745874587459
+    },
+    "02190512": {
+        "western-count": 46,
+        "non-western-count": 17,
+        "western-share": 23.115577889447,
+        "non-western-share": 8.5427135678392,
+        "immigrant-share": 31.658291457286,
+        "non-immigrant-share": 68.341708542714
+    },
+    "02190513": {
+        "western-count": 42,
+        "non-western-count": 29,
+        "western-share": 22.459893048128,
+        "non-western-share": 15.508021390374,
+        "immigrant-share": 37.967914438503,
+        "non-immigrant-share": 62.032085561497
+    },
+    "02190514": {
+        "western-count": 29,
+        "non-western-count": 20,
+        "western-share": 19.463087248322,
+        "non-western-share": 13.422818791946,
+        "immigrant-share": 32.885906040268,
+        "non-immigrant-share": 67.114093959732
+    },
+    "02190515": {
+        "western-count": 66,
+        "non-western-count": 29,
+        "western-share": 20.560747663551,
+        "non-western-share": 9.0342679127726,
+        "immigrant-share": 29.595015576324,
+        "non-immigrant-share": 70.404984423676
+    },
+    "02190516": {
+        "western-count": 73,
+        "non-western-count": 29,
+        "western-share": 22.741433021807,
+        "non-western-share": 9.0342679127726,
+        "immigrant-share": 31.775700934579,
+        "non-immigrant-share": 68.224299065421
+    },
+    "02190517": {
+        "western-count": 44,
+        "non-western-count": 19,
+        "western-share": 25.433526011561,
+        "non-western-share": 10.982658959538,
+        "immigrant-share": 36.416184971098,
+        "non-immigrant-share": 63.583815028902
+    },
+    "02190518": {
+        "western-count": 38,
+        "non-western-count": 25,
+        "western-share": 24.675324675325,
+        "non-western-share": 16.233766233766,
+        "immigrant-share": 40.909090909091,
+        "non-immigrant-share": 59.090909090909
+    },
+    "02190520": {
+        "western-count": 66,
+        "non-western-count": 17,
+        "western-share": 24.812030075188,
+        "non-western-share": 6.390977443609,
+        "immigrant-share": 31.203007518797,
+        "non-immigrant-share": 68.796992481203
+    },
+    "02190522": {
+        "western-count": 58,
+        "non-western-count": 16,
+        "western-share": 25.108225108225,
+        "non-western-share": 6.9264069264069,
+        "immigrant-share": 32.034632034632,
+        "non-immigrant-share": 67.965367965368
+    },
+    "02190523": {
+        "western-count": 22,
+        "non-western-count": 6,
+        "western-share": 32.835820895522,
+        "non-western-share": 8.955223880597,
+        "immigrant-share": 41.791044776119,
+        "non-immigrant-share": 58.208955223881
+    },
+    "02190524": {
+        "western-count": 33,
+        "non-western-count": 11,
+        "western-share": 12.84046692607,
+        "non-western-share": 4.2801556420233,
+        "immigrant-share": 17.120622568093,
+        "non-immigrant-share": 82.879377431907
+    },
+    "02190525": {
+        "western-count": 21,
+        "non-western-count": 6,
+        "western-share": 23.595505617978,
+        "non-western-share": 6.7415730337079,
+        "immigrant-share": 30.337078651685,
+        "non-immigrant-share": 69.662921348315
+    },
+    "02190526": {
+        "western-count": 28,
+        "non-western-count": 5,
+        "western-share": 22.58064516129,
+        "non-western-share": 4.0322580645161,
+        "immigrant-share": 26.612903225806,
+        "non-immigrant-share": 73.387096774194
+    },
+    "02190527": {
+        "western-count": 43,
+        "non-western-count": 15,
+        "western-share": 17.768595041322,
+        "non-western-share": 6.198347107438,
+        "immigrant-share": 23.96694214876,
+        "non-immigrant-share": 76.03305785124
+    },
+    "02190528": {
+        "western-count": 42,
+        "non-western-count": 17,
+        "western-share": 17.948717948718,
+        "non-western-share": 7.2649572649573,
+        "immigrant-share": 25.213675213675,
+        "non-immigrant-share": 74.786324786325
+    },
+    "02190529": {
+        "western-count": 55,
+        "non-western-count": 7,
+        "western-share": 30.898876404494,
+        "non-western-share": 3.9325842696629,
+        "immigrant-share": 34.831460674157,
+        "non-immigrant-share": 65.168539325843
+    },
+    "02190601": {
+        "western-count": 73,
+        "non-western-count": 49,
+        "western-share": 18.481012658228,
+        "non-western-share": 12.405063291139,
+        "immigrant-share": 30.886075949367,
+        "non-immigrant-share": 69.113924050633
+    },
+    "02190602": {
+        "western-count": 141,
+        "non-western-count": 43,
+        "western-share": 26.454033771107,
+        "non-western-share": 8.0675422138837,
+        "immigrant-share": 34.521575984991,
+        "non-immigrant-share": 65.478424015009
+    },
+    "02190603": {
+        "western-count": 103,
+        "non-western-count": 27,
+        "western-share": 25.879396984925,
+        "non-western-share": 6.78391959799,
+        "immigrant-share": 32.663316582915,
+        "non-immigrant-share": 67.336683417085
+    },
+    "02190604": {
+        "western-count": 84,
+        "non-western-count": 55,
+        "western-share": 21.26582278481,
+        "non-western-share": 13.924050632911,
+        "immigrant-share": 35.189873417722,
+        "non-immigrant-share": 64.810126582278
+    },
+    "02190605": {
+        "western-count": 151,
+        "non-western-count": 51,
+        "western-share": 37.283950617284,
+        "non-western-share": 12.592592592593,
+        "immigrant-share": 49.876543209877,
+        "non-immigrant-share": 50.123456790123
+    },
+    "02190606": {
+        "western-count": 146,
+        "non-western-count": 33,
+        "western-share": 31.130063965885,
+        "non-western-share": 7.0362473347548,
+        "immigrant-share": 38.16631130064,
+        "non-immigrant-share": 61.83368869936
+    },
+    "02190608": {
+        "western-count": 154,
+        "non-western-count": 34,
+        "western-share": 37.28813559322,
+        "non-western-share": 8.2324455205811,
+        "immigrant-share": 45.520581113801,
+        "non-immigrant-share": 54.479418886199
+    },
+    "02190609": {
+        "western-count": 119,
+        "non-western-count": 45,
+        "western-share": 30.203045685279,
+        "non-western-share": 11.421319796954,
+        "immigrant-share": 41.624365482234,
+        "non-immigrant-share": 58.375634517766
+    },
+    "02190610": {
+        "western-count": 150,
+        "non-western-count": 69,
+        "western-share": 25.728987993139,
+        "non-western-share": 11.835334476844,
+        "immigrant-share": 37.564322469983,
+        "non-immigrant-share": 62.435677530017
+    },
+    "02190611": {
+        "western-count": 127,
+        "non-western-count": 37,
+        "western-share": 23.64990689013,
+        "non-western-share": 6.8901303538175,
+        "immigrant-share": 30.540037243948,
+        "non-immigrant-share": 69.459962756052
+    },
+    "02190612": {
+        "western-count": 109,
+        "non-western-count": 20,
+        "western-share": 26.650366748166,
+        "non-western-share": 4.8899755501222,
+        "immigrant-share": 31.540342298289,
+        "non-immigrant-share": 68.459657701711
+    },
+    "02190613": {
+        "western-count": 91,
+        "non-western-count": 37,
+        "western-share": 21.462264150943,
+        "non-western-share": 8.7264150943396,
+        "immigrant-share": 30.188679245283,
+        "non-immigrant-share": 69.811320754717
+    },
+    "02190614": {
+        "western-count": 39,
+        "non-western-count": 16,
+        "western-share": 19.306930693069,
+        "non-western-share": 7.9207920792079,
+        "immigrant-share": 27.227722772277,
+        "non-immigrant-share": 72.772277227723
+    },
+    "02190615": {
+        "western-count": 96,
+        "non-western-count": 56,
+        "western-share": 20.915032679739,
+        "non-western-share": 12.200435729847,
+        "immigrant-share": 33.115468409586,
+        "non-immigrant-share": 66.884531590414
+    },
+    "02190616": {
+        "western-count": 83,
+        "non-western-count": 35,
+        "western-share": 20,
+        "non-western-share": 8.433734939759,
+        "immigrant-share": 28.433734939759,
+        "non-immigrant-share": 71.566265060241
+    },
+    "02190617": {
+        "western-count": 78,
+        "non-western-count": 24,
+        "western-share": 25.407166123779,
+        "non-western-share": 7.8175895765472,
+        "immigrant-share": 33.224755700326,
+        "non-immigrant-share": 66.775244299674
+    },
+    "02190618": {
+        "western-count": 46,
+        "non-western-count": 20,
+        "western-share": 27.058823529412,
+        "non-western-share": 11.764705882353,
+        "immigrant-share": 38.823529411765,
+        "non-immigrant-share": 61.176470588235
+    },
+    "02190701": {
+        "western-count": 73,
+        "non-western-count": 18,
+        "western-share": 38.421052631579,
+        "non-western-share": 9.4736842105263,
+        "immigrant-share": 47.894736842105,
+        "non-immigrant-share": 52.105263157895
+    },
+    "02190702": {
+        "western-count": 204,
+        "non-western-count": 143,
+        "western-share": 20.647773279352,
+        "non-western-share": 14.473684210526,
+        "immigrant-share": 35.121457489879,
+        "non-immigrant-share": 64.878542510121
+    },
+    "02190703": {
+        "western-count": 277,
+        "non-western-count": 197,
+        "western-share": 32.060185185185,
+        "non-western-share": 22.800925925926,
+        "immigrant-share": 54.861111111111,
+        "non-immigrant-share": 45.138888888889
+    },
+    "02190704": {
+        "western-count": 61,
+        "non-western-count": 67,
+        "western-share": 27.601809954751,
+        "non-western-share": 30.316742081448,
+        "immigrant-share": 57.918552036199,
+        "non-immigrant-share": 42.081447963801
+    },
+    "02190705": {
+        "western-count": 44,
+        "non-western-count": 7,
+        "western-share": 28.025477707006,
+        "non-western-share": 4.4585987261146,
+        "immigrant-share": 32.484076433121,
+        "non-immigrant-share": 67.515923566879
+    },
+    "02190706": {
+        "western-count": 33,
+        "non-western-count": 9,
+        "western-share": 32.352941176471,
+        "non-western-share": 8.8235294117647,
+        "immigrant-share": 41.176470588235,
+        "non-immigrant-share": 58.823529411765
+    },
+    "02190707": {
+        "western-count": 55,
+        "non-western-count": 21,
+        "western-share": 32.544378698225,
+        "non-western-share": 12.426035502959,
+        "immigrant-share": 44.970414201183,
+        "non-immigrant-share": 55.029585798817
+    },
+    "02190708": {
+        "western-count": 131,
+        "non-western-count": 110,
+        "western-share": 28.665207877462,
+        "non-western-share": 24.070021881838,
+        "immigrant-share": 52.7352297593,
+        "non-immigrant-share": 47.2647702407
+    },
+    "02190709": {
+        "western-count": 76,
+        "non-western-count": 64,
+        "western-share": 27.737226277372,
+        "non-western-share": 23.357664233577,
+        "immigrant-share": 51.094890510949,
+        "non-immigrant-share": 48.905109489051
+    },
+    "02190710": {
+        "western-count": 126,
+        "non-western-count": 35,
+        "western-share": 33.6,
+        "non-western-share": 9.3333333333333,
+        "immigrant-share": 42.933333333333,
+        "non-immigrant-share": 57.066666666667
+    },
+    "02190711": {
+        "western-count": 63,
+        "non-western-count": 78,
+        "western-share": 31.034482758621,
+        "non-western-share": 38.423645320197,
+        "immigrant-share": 69.458128078818,
+        "non-immigrant-share": 30.541871921182
+    },
+    "02190712": {
+        "western-count": 104,
+        "non-western-count": 65,
+        "western-share": 41.434262948207,
+        "non-western-share": 25.896414342629,
+        "immigrant-share": 67.330677290837,
+        "non-immigrant-share": 32.669322709163
+    },
+    "02190714": {
+        "western-count": 124,
+        "non-western-count": 22,
+        "western-share": 29.879518072289,
+        "non-western-share": 5.3012048192771,
+        "immigrant-share": 35.180722891566,
+        "non-immigrant-share": 64.819277108434
+    },
+    "02190715": {
+        "western-count": 59,
+        "non-western-count": 32,
+        "western-share": 25.764192139738,
+        "non-western-share": 13.973799126638,
+        "immigrant-share": 39.737991266376,
+        "non-immigrant-share": 60.262008733624
+    },
+    "02190801": {
+        "western-count": "-",
+        "non-western-count": "-",
+        "western-share": 0,
+        "non-western-share": "-",
+        "immigrant-share": "-",
+        "non-immigrant-share": "-"
+    },
+    "02190802": {
+        "western-count": 87,
+        "non-western-count": 52,
+        "western-share": 22.65625,
+        "non-western-share": 13.541666666667,
+        "immigrant-share": 36.197916666667,
+        "non-immigrant-share": 63.802083333333
+    },
+    "02190803": {
+        "western-count": 150,
+        "non-western-count": 58,
+        "western-share": 26.881720430108,
+        "non-western-share": 10.394265232975,
+        "immigrant-share": 37.275985663082,
+        "non-immigrant-share": 62.724014336918
+    },
+    "02190804": {
+        "western-count": 180,
+        "non-western-count": 43,
+        "western-share": 37.65690376569,
+        "non-western-share": 8.9958158995816,
+        "immigrant-share": 46.652719665272,
+        "non-immigrant-share": 53.347280334728
+    },
+    "02190805": {
+        "western-count": 110,
+        "non-western-count": 59,
+        "western-share": 22.964509394572,
+        "non-western-share": 12.31732776618,
+        "immigrant-share": 35.281837160752,
+        "non-immigrant-share": 64.718162839248
+    },
+    "02190806": {
+        "western-count": 113,
+        "non-western-count": 47,
+        "western-share": 24.780701754386,
+        "non-western-share": 10.30701754386,
+        "immigrant-share": 35.087719298246,
+        "non-immigrant-share": 64.912280701754
+    },
+    "02190807": {
+        "western-count": 179,
+        "non-western-count": 66,
+        "western-share": 28.012519561815,
+        "non-western-share": 10.328638497653,
+        "immigrant-share": 38.341158059468,
+        "non-immigrant-share": 61.658841940532
+    },
+    "02190808": {
+        "western-count": 45,
+        "non-western-count": 16,
+        "western-share": 26.315789473684,
+        "non-western-share": 9.3567251461988,
+        "immigrant-share": 35.672514619883,
+        "non-immigrant-share": 64.327485380117
+    },
+    "02190809": {
+        "western-count": 48,
+        "non-western-count": 37,
+        "western-share": 24.365482233503,
+        "non-western-share": 18.781725888325,
+        "immigrant-share": 43.147208121827,
+        "non-immigrant-share": 56.852791878173
+    },
+    "02190810": {
+        "western-count": 91,
+        "non-western-count": 29,
+        "western-share": 31.597222222222,
+        "non-western-share": 10.069444444444,
+        "immigrant-share": 41.666666666667,
+        "non-immigrant-share": 58.333333333333
+    },
+    "02190812": {
+        "western-count": 16,
+        "non-western-count": "-",
+        "western-share": 100,
+        "non-western-share": 0,
+        "immigrant-share": 100,
+        "non-immigrant-share": 0
+    },
+    "02190813": {
+        "western-count": 106,
+        "non-western-count": 134,
+        "western-share": 26.700251889169,
+        "non-western-share": 33.75314861461,
+        "immigrant-share": 60.453400503778,
+        "non-immigrant-share": 39.546599496222
+    },
+    "02190814": {
+        "western-count": "-",
+        "non-western-count": 7,
+        "western-share": 0,
+        "non-western-share": 100,
+        "immigrant-share": 100,
+        "non-immigrant-share": 0
+    },
+    "02190815": {
+        "western-count": 166,
+        "non-western-count": 104,
+        "western-share": 19.506462984724,
+        "non-western-share": 12.220916568743,
+        "immigrant-share": 31.727379553467,
+        "non-immigrant-share": 68.272620446533
+    },
+    "02190817": {
+        "western-count": 9,
+        "non-western-count": "-",
+        "western-share": 100,
+        "non-western-share": 0,
+        "immigrant-share": 100,
+        "non-immigrant-share": 0
+    },
+    "02190818": {
+        "western-count": 93,
+        "non-western-count": 71,
+        "western-share": 24.603174603175,
+        "non-western-share": 18.783068783069,
+        "immigrant-share": 43.386243386243,
+        "non-immigrant-share": 56.613756613757
+    },
+    "02190819": {
+        "western-count": 155,
+        "non-western-count": 85,
+        "western-share": 21.262002743484,
+        "non-western-share": 11.659807956104,
+        "immigrant-share": 32.921810699588,
+        "non-immigrant-share": 67.078189300412
+    },
+    "02190820": {
+        "western-count": 32,
+        "non-western-count": 45,
+        "western-share": 15.165876777251,
+        "non-western-share": 21.327014218009,
+        "immigrant-share": 36.492890995261,
+        "non-immigrant-share": 63.507109004739
+    },
+    "02190821": {
+        "western-count": 137,
+        "non-western-count": 66,
+        "western-share": 24.204946996466,
+        "non-western-share": 11.660777385159,
+        "immigrant-share": 35.865724381625,
+        "non-immigrant-share": 64.134275618375
+    },
+    "02190826": {
+        "western-count": 74,
+        "non-western-count": 109,
+        "western-share": 20.612813370474,
+        "non-western-share": 30.362116991643,
+        "immigrant-share": 50.974930362117,
+        "non-immigrant-share": 49.025069637883
+    },
+    "02190827": {
+        "western-count": 169,
+        "non-western-count": 212,
+        "western-share": 19.651162790698,
+        "non-western-share": 24.651162790698,
+        "immigrant-share": 44.302325581395,
+        "non-immigrant-share": 55.697674418605
+    },
+    "02190828": {
+        "western-count": 96,
+        "non-western-count": 87,
+        "western-share": 18.640776699029,
+        "non-western-share": 16.893203883495,
+        "immigrant-share": 35.533980582524,
+        "non-immigrant-share": 64.466019417476
+    },
+    "02190901": {
+        "western-count": 145,
+        "non-western-count": 82,
+        "western-share": 26.901669758813,
+        "non-western-share": 15.213358070501,
+        "immigrant-share": 42.115027829314,
+        "non-immigrant-share": 57.884972170686
+    },
+    "02190902": {
+        "western-count": 94,
+        "non-western-count": 22,
+        "western-share": 29.467084639498,
+        "non-western-share": 6.8965517241379,
+        "immigrant-share": 36.363636363636,
+        "non-immigrant-share": 63.636363636364
+    },
+    "02190903": {
+        "western-count": 145,
+        "non-western-count": 76,
+        "western-share": 26.901669758813,
+        "non-western-share": 14.100185528757,
+        "immigrant-share": 41.00185528757,
+        "non-immigrant-share": 58.99814471243
+    },
+    "02190904": {
+        "western-count": 4,
+        "non-western-count": "-",
+        "western-share": 8.8888888888889,
+        "non-western-share": 0,
+        "immigrant-share": 8.8888888888889,
+        "non-immigrant-share": 91.111111111111
+    },
+    "02190905": {
+        "western-count": 169,
+        "non-western-count": 99,
+        "western-share": 20.46004842615,
+        "non-western-share": 11.985472154964,
+        "immigrant-share": 32.445520581114,
+        "non-immigrant-share": 67.554479418886
+    },
+    "02190906": {
+        "western-count": 128,
+        "non-western-count": 43,
+        "western-share": 25.498007968127,
+        "non-western-share": 8.5657370517928,
+        "immigrant-share": 34.06374501992,
+        "non-immigrant-share": 65.93625498008
+    },
+    "02190907": {
+        "western-count": 91,
+        "non-western-count": 49,
+        "western-share": 21.162790697674,
+        "non-western-share": 11.395348837209,
+        "immigrant-share": 32.558139534884,
+        "non-immigrant-share": 67.441860465116
+    },
+    "02190908": {
+        "western-count": 100,
+        "non-western-count": 29,
+        "western-share": 23.923444976077,
+        "non-western-share": 6.9377990430622,
+        "immigrant-share": 30.861244019139,
+        "non-immigrant-share": 69.138755980861
+    },
+    "02190909": {
+        "western-count": 33,
+        "non-western-count": 52,
+        "western-share": 17.460317460317,
+        "non-western-share": 27.513227513228,
+        "immigrant-share": 44.973544973545,
+        "non-immigrant-share": 55.026455026455
+    },
+    "02190910": {
+        "western-count": 111,
+        "non-western-count": 74,
+        "western-share": 20.982986767486,
+        "non-western-share": 13.988657844991,
+        "immigrant-share": 34.971644612476,
+        "non-immigrant-share": 65.028355387524
+    },
+    "02190912": {
+        "western-count": 72,
+        "non-western-count": 41,
+        "western-share": 21.951219512195,
+        "non-western-share": 12.5,
+        "immigrant-share": 34.451219512195,
+        "non-immigrant-share": 65.548780487805
+    },
+    "02190913": {
+        "western-count": 45,
+        "non-western-count": 36,
+        "western-share": 19.823788546256,
+        "non-western-share": 15.859030837004,
+        "immigrant-share": 35.68281938326,
+        "non-immigrant-share": 64.31718061674
+    },
+    "02190917": {
+        "western-count": 134,
+        "non-western-count": 56,
+        "western-share": 27.800829875519,
+        "non-western-share": 11.618257261411,
+        "immigrant-share": 39.419087136929,
+        "non-immigrant-share": 60.580912863071
+    },
+    "02190918": {
+        "western-count": 63,
+        "non-western-count": 93,
+        "western-share": 15.291262135922,
+        "non-western-share": 22.572815533981,
+        "immigrant-share": 37.864077669903,
+        "non-immigrant-share": 62.135922330097
+    },
+    "02190919": {
+        "western-count": 37,
+        "non-western-count": 42,
+        "western-share": 18.877551020408,
+        "non-western-share": 21.428571428571,
+        "immigrant-share": 40.30612244898,
+        "non-immigrant-share": 59.69387755102
+    },
+    "02190920": {
+        "western-count": 3,
+        "non-western-count": "-",
+        "western-share": 16.666666666667,
+        "non-western-share": "-",
+        "immigrant-share": "-",
+        "non-immigrant-share": "-"
+    },
+    "02190921": {
+        "western-count": 60,
+        "non-western-count": 7,
+        "western-share": 31.746031746032,
+        "non-western-share": 3.7037037037037,
+        "immigrant-share": 35.449735449735,
+        "non-immigrant-share": 64.550264550265
+    },
+    "02190922": {
+        "western-count": 95,
+        "non-western-count": 13,
+        "western-share": 32.871972318339,
+        "non-western-share": 4.4982698961938,
+        "immigrant-share": 37.370242214533,
+        "non-immigrant-share": 62.629757785467
+    },
+    "02190923": {
+        "western-count": 48,
+        "non-western-count": 11,
+        "western-share": 27.118644067797,
+        "non-western-share": 6.2146892655367,
+        "immigrant-share": 33.333333333333,
+        "non-immigrant-share": 66.666666666667
+    },
+    "02190924": {
+        "western-count": 44,
+        "non-western-count": 9,
+        "western-share": 23.404255319149,
+        "non-western-share": 4.7872340425532,
+        "immigrant-share": 28.191489361702,
+        "non-immigrant-share": 71.808510638298
+    },
+    "02190925": {
+        "western-count": 18,
+        "non-western-count": 21,
+        "western-share": 18.367346938776,
+        "non-western-share": 21.428571428571,
+        "immigrant-share": 39.795918367347,
+        "non-immigrant-share": 60.204081632653
+    },
+    "02190926": {
+        "western-count": 90,
+        "non-western-count": 20,
+        "western-share": 32.142857142857,
+        "non-western-share": 7.1428571428571,
+        "immigrant-share": 39.285714285714,
+        "non-immigrant-share": 60.714285714286
+    },
+    "02190927": {
+        "western-count": 40,
+        "non-western-count": 15,
+        "western-share": 27.972027972028,
+        "non-western-share": 10.48951048951,
+        "immigrant-share": 38.461538461538,
+        "non-immigrant-share": 61.538461538462
+    },
+    "02190928": {
+        "western-count": 52,
+        "non-western-count": 30,
+        "western-share": 25.870646766169,
+        "non-western-share": 14.925373134328,
+        "immigrant-share": 40.796019900498,
+        "non-immigrant-share": 59.203980099502
+    },
+    "02190929": {
+        "western-count": 19,
+        "non-western-count": "-",
+        "western-share": 19.791666666667,
+        "non-western-share": "-",
+        "immigrant-share": "-",
+        "non-immigrant-share": "-"
+    },
+    "02191004": {
+        "western-count": 83,
+        "non-western-count": 70,
+        "western-share": 27.574750830565,
+        "non-western-share": 23.255813953488,
+        "immigrant-share": 50.830564784053,
+        "non-immigrant-share": 49.169435215947
+    },
+    "02191005": {
+        "western-count": 49,
+        "non-western-count": 31,
+        "western-share": 23.90243902439,
+        "non-western-share": 15.121951219512,
+        "immigrant-share": 39.024390243902,
+        "non-immigrant-share": 60.975609756098
+    },
+    "02191006": {
+        "western-count": 32,
+        "non-western-count": 4,
+        "western-share": 15.165876777251,
+        "non-western-share": 1.8957345971564,
+        "immigrant-share": 17.061611374408,
+        "non-immigrant-share": 82.938388625592
+    },
+    "02191007": {
+        "western-count": 38,
+        "non-western-count": 11,
+        "western-share": 25.503355704698,
+        "non-western-share": 7.3825503355705,
+        "immigrant-share": 32.885906040268,
+        "non-immigrant-share": 67.114093959732
+    },
+    "02191008": {
+        "western-count": 28,
+        "non-western-count": 3,
+        "western-share": 24.347826086957,
+        "non-western-share": 2.6086956521739,
+        "immigrant-share": 26.95652173913,
+        "non-immigrant-share": 73.04347826087
+    },
+    "02191009": {
+        "western-count": 42,
+        "non-western-count": 45,
+        "western-share": 17.004048582996,
+        "non-western-share": 18.218623481781,
+        "immigrant-share": 35.222672064777,
+        "non-immigrant-share": 64.777327935223
+    },
+    "02191010": {
+        "western-count": 45,
+        "non-western-count": 23,
+        "western-share": 25.568181818182,
+        "non-western-share": 13.068181818182,
+        "immigrant-share": 38.636363636364,
+        "non-immigrant-share": 61.363636363636
+    },
+    "02191011": {
+        "western-count": 53,
+        "non-western-count": 8,
+        "western-share": 25.118483412322,
+        "non-western-share": 3.7914691943128,
+        "immigrant-share": 28.909952606635,
+        "non-immigrant-share": 71.090047393365
+    },
+    "02191014": {
+        "western-count": 131,
+        "non-western-count": 49,
+        "western-share": 23.022847100176,
+        "non-western-share": 8.6115992970123,
+        "immigrant-share": 31.634446397188,
+        "non-immigrant-share": 68.365553602812
+    },
+    "02191015": {
+        "western-count": 37,
+        "non-western-count": 38,
+        "western-share": 29.838709677419,
+        "non-western-share": 30.645161290323,
+        "immigrant-share": 60.483870967742,
+        "non-immigrant-share": 39.516129032258
+    },
+    "02191016": {
+        "western-count": 39,
+        "non-western-count": 16,
+        "western-share": 20.526315789474,
+        "non-western-share": 8.4210526315789,
+        "immigrant-share": 28.947368421053,
+        "non-immigrant-share": 71.052631578947
+    },
+    "02191017": {
+        "western-count": 24,
+        "non-western-count": "-",
+        "western-share": 47.058823529412,
+        "non-western-share": "-",
+        "immigrant-share": "-",
+        "non-immigrant-share": "-"
+    },
+    "02191018": {
+        "western-count": 42,
+        "non-western-count": 37,
+        "western-share": 38.888888888889,
+        "non-western-share": 34.259259259259,
+        "immigrant-share": 73.148148148148,
+        "non-immigrant-share": 26.851851851852
+    },
+    "02191019": {
+        "western-count": 64,
+        "non-western-count": 26,
+        "western-share": 27.705627705628,
+        "non-western-share": 11.255411255411,
+        "immigrant-share": 38.961038961039,
+        "non-immigrant-share": 61.038961038961
+    },
+    "02191020": {
+        "western-count": 41,
+        "non-western-count": 5,
+        "western-share": 30.147058823529,
+        "non-western-share": 3.6764705882353,
+        "immigrant-share": 33.823529411765,
+        "non-immigrant-share": 66.176470588235
+    },
+    "02191021": {
+        "western-count": 137,
+        "non-western-count": 28,
+        "western-share": 31.566820276498,
+        "non-western-share": 6.4516129032258,
+        "immigrant-share": 38.018433179724,
+        "non-immigrant-share": 61.981566820276
+    },
+    "02191022": {
+        "western-count": 127,
+        "non-western-count": 36,
+        "western-share": 28.668171557562,
+        "non-western-share": 8.1264108352144,
+        "immigrant-share": 36.794582392777,
+        "non-immigrant-share": 63.205417607223
+    },
+    "02191023": {
+        "western-count": 99,
+        "non-western-count": 130,
+        "western-share": 27.5,
+        "non-western-share": 36.111111111111,
+        "immigrant-share": 63.611111111111,
+        "non-immigrant-share": 36.388888888889
+    },
+    "02191024": {
+        "western-count": 22,
+        "non-western-count": 16,
+        "western-share": 19.469026548673,
+        "non-western-share": 14.159292035398,
+        "immigrant-share": 33.628318584071,
+        "non-immigrant-share": 66.371681415929
+    },
+    "02191025": {
+        "western-count": 60,
+        "non-western-count": 34,
+        "western-share": 25.210084033613,
+        "non-western-share": 14.285714285714,
+        "immigrant-share": 39.495798319328,
+        "non-immigrant-share": 60.504201680672
+    },
+    "02191026": {
+        "western-count": 93,
+        "non-western-count": 54,
+        "western-share": 22.906403940887,
+        "non-western-share": 13.300492610837,
+        "immigrant-share": 36.206896551724,
+        "non-immigrant-share": 63.793103448276
+    },
+    "02191101": {
+        "western-count": 81,
+        "non-western-count": 19,
+        "western-share": 22.689075630252,
+        "non-western-share": 5.3221288515406,
+        "immigrant-share": 28.011204481793,
+        "non-immigrant-share": 71.988795518207
+    },
+    "02191102": {
+        "western-count": 39,
+        "non-western-count": 24,
+        "western-share": 22.941176470588,
+        "non-western-share": 14.117647058824,
+        "immigrant-share": 37.058823529412,
+        "non-immigrant-share": 62.941176470588
+    },
+    "02191103": {
+        "western-count": 151,
+        "non-western-count": 49,
+        "western-share": 28.598484848485,
+        "non-western-share": 9.280303030303,
+        "immigrant-share": 37.878787878788,
+        "non-immigrant-share": 62.121212121212
+    },
+    "02191104": {
+        "western-count": 146,
+        "non-western-count": 69,
+        "western-share": 31.533477321814,
+        "non-western-share": 14.902807775378,
+        "immigrant-share": 46.436285097192,
+        "non-immigrant-share": 53.563714902808
+    },
+    "02191105": {
+        "western-count": "-",
+        "non-western-count": 4,
+        "western-share": "-",
+        "non-western-share": 19.047619047619,
+        "immigrant-share": "-",
+        "non-immigrant-share": "-"
+    },
+    "02191106": {
+        "western-count": 143,
+        "non-western-count": 43,
+        "western-share": 26.238532110092,
+        "non-western-share": 7.8899082568807,
+        "immigrant-share": 34.128440366972,
+        "non-immigrant-share": 65.871559633028
+    },
+    "02191107": {
+        "western-count": 129,
+        "non-western-count": 71,
+        "western-share": 26.060606060606,
+        "non-western-share": 14.343434343434,
+        "immigrant-share": 40.40404040404,
+        "non-immigrant-share": 59.59595959596
+    },
+    "02191108": {
+        "western-count": 55,
+        "non-western-count": 29,
+        "western-share": 24.229074889868,
+        "non-western-share": 12.775330396476,
+        "immigrant-share": 37.004405286344,
+        "non-immigrant-share": 62.995594713656
+    },
+    "02191110": {
+        "western-count": 209,
+        "non-western-count": 97,
+        "western-share": 30.071942446043,
+        "non-western-share": 13.956834532374,
+        "immigrant-share": 44.028776978417,
+        "non-immigrant-share": 55.971223021583
+    },
+    "02191112": {
+        "western-count": 77,
+        "non-western-count": 112,
+        "western-share": 20.424403183024,
+        "non-western-share": 29.708222811671,
+        "immigrant-share": 50.132625994695,
+        "non-immigrant-share": 49.867374005305
+    },
+    "02191113": {
+        "western-count": 120,
+        "non-western-count": 40,
+        "western-share": 31.25,
+        "non-western-share": 10.416666666667,
+        "immigrant-share": 41.666666666667,
+        "non-immigrant-share": 58.333333333333
+    },
+    "02191114": {
+        "western-count": 97,
+        "non-western-count": 73,
+        "western-share": 22.196796338673,
+        "non-western-share": 16.704805491991,
+        "immigrant-share": 38.901601830664,
+        "non-immigrant-share": 61.098398169336
+    },
+    "02191115": {
+        "western-count": 46,
+        "non-western-count": 16,
+        "western-share": 19.91341991342,
+        "non-western-share": 6.9264069264069,
+        "immigrant-share": 26.839826839827,
+        "non-immigrant-share": 73.160173160173
+    },
+    "02191116": {
+        "western-count": 40,
+        "non-western-count": 4,
+        "western-share": 25.641025641026,
+        "non-western-share": 2.5641025641026,
+        "immigrant-share": 28.205128205128,
+        "non-immigrant-share": 71.794871794872
+    },
+    "02191117": {
+        "western-count": 74,
+        "non-western-count": 32,
+        "western-share": 28.030303030303,
+        "non-western-share": 12.121212121212,
+        "immigrant-share": 40.151515151515,
+        "non-immigrant-share": 59.848484848485
+    },
+    "02191119": {
+        "western-count": 45,
+        "non-western-count": 34,
+        "western-share": 38.135593220339,
+        "non-western-share": 28.813559322034,
+        "immigrant-share": 66.949152542373,
+        "non-immigrant-share": 33.050847457627
+    },
+    "02191120": {
+        "western-count": 81,
+        "non-western-count": 9,
+        "western-share": 35.217391304348,
+        "non-western-share": 3.9130434782609,
+        "immigrant-share": 39.130434782609,
+        "non-immigrant-share": 60.869565217391
+    },
+    "02191121": {
+        "western-count": 129,
+        "non-western-count": 65,
+        "western-share": 24.618320610687,
+        "non-western-share": 12.404580152672,
+        "immigrant-share": 37.022900763359,
+        "non-immigrant-share": 62.977099236641
+    },
+    "02191122": {
+        "western-count": 70,
+        "non-western-count": 65,
+        "western-share": 17.031630170316,
+        "non-western-share": 15.815085158151,
+        "immigrant-share": 32.846715328467,
+        "non-immigrant-share": 67.153284671533
+    },
+    "02191123": {
+        "western-count": 25,
+        "non-western-count": 32,
+        "western-share": 22.935779816514,
+        "non-western-share": 29.357798165138,
+        "immigrant-share": 52.293577981651,
+        "non-immigrant-share": 47.706422018349
+    },
+    "02191124": {
+        "western-count": 32,
+        "non-western-count": 22,
+        "western-share": 24.06015037594,
+        "non-western-share": 16.541353383459,
+        "immigrant-share": 40.601503759398,
+        "non-immigrant-share": 59.398496240602
+    },
+    "02191125": {
+        "western-count": 40,
+        "non-western-count": 16,
+        "western-share": 23.391812865497,
+        "non-western-share": 9.3567251461988,
+        "immigrant-share": 32.748538011696,
+        "non-immigrant-share": 67.251461988304
+    },
+    "02191126": {
+        "western-count": 55,
+        "non-western-count": 15,
+        "western-share": 18.77133105802,
+        "non-western-share": 5.1194539249147,
+        "immigrant-share": 23.890784982935,
+        "non-immigrant-share": 76.109215017065
+    },
+    "02191127": {
+        "western-count": 47,
+        "non-western-count": 14,
+        "western-share": 30.128205128205,
+        "non-western-share": 8.974358974359,
+        "immigrant-share": 39.102564102564,
+        "non-immigrant-share": 60.897435897436
+    },
+    "02191128": {
+        "western-count": 51,
+        "non-western-count": 22,
+        "western-share": 26.288659793814,
+        "non-western-share": 11.340206185567,
+        "immigrant-share": 37.628865979381,
+        "non-immigrant-share": 62.371134020619
+    },
+    "02191129": {
+        "western-count": 24,
+        "non-western-count": 9,
+        "western-share": 20.689655172414,
+        "non-western-share": 7.7586206896552,
+        "immigrant-share": 28.448275862069,
+        "non-immigrant-share": 71.551724137931
+    },
+    "02191201": {
+        "western-count": 106,
+        "non-western-count": 73,
+        "western-share": 16.719242902208,
+        "non-western-share": 11.514195583596,
+        "immigrant-share": 28.233438485804,
+        "non-immigrant-share": 71.766561514196
+    },
+    "02191202": {
+        "western-count": 86,
+        "non-western-count": 79,
+        "western-share": 18.818380743982,
+        "non-western-share": 17.286652078775,
+        "immigrant-share": 36.105032822757,
+        "non-immigrant-share": 63.894967177243
+    },
+    "02191203": {
+        "western-count": 90,
+        "non-western-count": 22,
+        "western-share": 20.93023255814,
+        "non-western-share": 5.1162790697674,
+        "immigrant-share": 26.046511627907,
+        "non-immigrant-share": 73.953488372093
+    },
+    "02191204": {
+        "western-count": 129,
+        "non-western-count": 61,
+        "western-share": 26.543209876543,
+        "non-western-share": 12.551440329218,
+        "immigrant-share": 39.094650205761,
+        "non-immigrant-share": 60.905349794239
+    },
+    "02191205": {
+        "western-count": 58,
+        "non-western-count": 42,
+        "western-share": 18.831168831169,
+        "non-western-share": 13.636363636364,
+        "immigrant-share": 32.467532467532,
+        "non-immigrant-share": 67.532467532468
+    },
+    "02191206": {
+        "western-count": 96,
+        "non-western-count": 44,
+        "western-share": 25.464190981432,
+        "non-western-share": 11.671087533156,
+        "immigrant-share": 37.135278514589,
+        "non-immigrant-share": 62.864721485411
+    },
+    "02191207": {
+        "western-count": 55,
+        "non-western-count": 59,
+        "western-share": 19.713261648746,
+        "non-western-share": 21.146953405018,
+        "immigrant-share": 40.860215053763,
+        "non-immigrant-share": 59.139784946237
+    },
+    "02191208": {
+        "western-count": 97,
+        "non-western-count": 27,
+        "western-share": 24.371859296482,
+        "non-western-share": 6.78391959799,
+        "immigrant-share": 31.155778894472,
+        "non-immigrant-share": 68.844221105528
+    },
+    "02191209": {
+        "western-count": 65,
+        "non-western-count": 28,
+        "western-share": 28.63436123348,
+        "non-western-share": 12.334801762115,
+        "immigrant-share": 40.969162995595,
+        "non-immigrant-share": 59.030837004405
+    },
+    "02191210": {
+        "western-count": 64,
+        "non-western-count": 20,
+        "western-share": 26.890756302521,
+        "non-western-share": 8.4033613445378,
+        "immigrant-share": 35.294117647059,
+        "non-immigrant-share": 64.705882352941
+    },
+    "02191211": {
+        "western-count": 89,
+        "non-western-count": 14,
+        "western-share": 26.023391812865,
+        "non-western-share": 4.093567251462,
+        "immigrant-share": 30.116959064327,
+        "non-immigrant-share": 69.883040935673
+    },
+    "02191212": {
+        "western-count": 63,
+        "non-western-count": 42,
+        "western-share": 24.609375,
+        "non-western-share": 16.40625,
+        "immigrant-share": 41.015625,
+        "non-immigrant-share": 58.984375
+    },
+    "02191213": {
+        "western-count": 78,
+        "non-western-count": 34,
+        "western-share": 22.033898305085,
+        "non-western-share": 9.6045197740113,
+        "immigrant-share": 31.638418079096,
+        "non-immigrant-share": 68.361581920904
+    },
+    "02191214": {
+        "western-count": 36,
+        "non-western-count": 20,
+        "western-share": 27.272727272727,
+        "non-western-share": 15.151515151515,
+        "immigrant-share": 42.424242424242,
+        "non-immigrant-share": 57.575757575758
+    },
+    "02191215": {
+        "western-count": 83,
+        "non-western-count": 18,
+        "western-share": 19.392523364486,
+        "non-western-share": 4.2056074766355,
+        "immigrant-share": 23.598130841121,
+        "non-immigrant-share": 76.401869158878
+    },
+    "02191216": {
+        "western-count": 110,
+        "non-western-count": 111,
+        "western-share": 19.163763066202,
+        "non-western-share": 19.337979094077,
+        "immigrant-share": 38.501742160279,
+        "non-immigrant-share": 61.498257839721
+    },
+    "02191217": {
+        "western-count": 30,
+        "non-western-count": 6,
+        "western-share": 15,
+        "non-western-share": 3,
+        "immigrant-share": 18,
+        "non-immigrant-share": 82
+    },
+    "02191218": {
+        "western-count": "-",
+        "non-western-count": "-",
+        "western-share": "-",
+        "non-western-share": "-",
+        "immigrant-share": "-",
+        "non-immigrant-share": "-"
+    },
+    "02191219": {
+        "western-count": 82,
+        "non-western-count": 62,
+        "western-share": 22.343324250681,
+        "non-western-share": 16.893732970027,
+        "immigrant-share": 39.237057220708,
+        "non-immigrant-share": 60.762942779292
+    },
+    "02191301": {
+        "western-count": 157,
+        "non-western-count": 46,
+        "western-share": 21.389645776567,
+        "non-western-share": 6.267029972752,
+        "immigrant-share": 27.656675749319,
+        "non-immigrant-share": 72.343324250681
+    },
+    "02191302": {
+        "western-count": 18,
+        "non-western-count": 4,
+        "western-share": 18.367346938776,
+        "non-western-share": 4.0816326530612,
+        "immigrant-share": 22.448979591837,
+        "non-immigrant-share": 77.551020408163
+    },
+    "02191304": {
+        "western-count": 32,
+        "non-western-count": 4,
+        "western-share": 30.188679245283,
+        "non-western-share": 3.7735849056604,
+        "immigrant-share": 33.962264150943,
+        "non-immigrant-share": 66.037735849057
+    },
+    "02191305": {
+        "western-count": "-",
+        "non-western-count": "-",
+        "western-share": 0,
+        "non-western-share": 0,
+        "immigrant-share": 0,
+        "non-immigrant-share": 100
+    },
+    "02191306": {
+        "western-count": 148,
+        "non-western-count": 44,
+        "western-share": 15.595363540569,
+        "non-western-share": 4.63645943098,
+        "immigrant-share": 20.231822971549,
+        "non-immigrant-share": 79.768177028451
+    },
+    "02191401": {
+        "western-count": 33,
+        "non-western-count": 53,
+        "western-share": 18.75,
+        "non-western-share": 30.113636363636,
+        "immigrant-share": 48.863636363636,
+        "non-immigrant-share": 51.136363636364
+    },
+    "02191403": {
+        "western-count": 102,
+        "non-western-count": 15,
+        "western-share": 25.692695214106,
+        "non-western-share": 3.7783375314861,
+        "immigrant-share": 29.471032745592,
+        "non-immigrant-share": 70.528967254408
+    },
+    "02191404": {
+        "western-count": 21,
+        "non-western-count": 23,
+        "western-share": 12,
+        "non-western-share": 13.142857142857,
+        "immigrant-share": 25.142857142857,
+        "non-immigrant-share": 74.857142857143
+    },
+    "02191405": {
+        "western-count": 35,
+        "non-western-count": 23,
+        "western-share": 19.886363636364,
+        "non-western-share": 13.068181818182,
+        "immigrant-share": 32.954545454545,
+        "non-immigrant-share": 67.045454545455
+    },
+    "02191406": {
+        "western-count": 27,
+        "non-western-count": 18,
+        "western-share": 19.424460431655,
+        "non-western-share": 12.94964028777,
+        "immigrant-share": 32.374100719424,
+        "non-immigrant-share": 67.625899280576
+    },
+    "02191407": {
+        "western-count": 31,
+        "non-western-count": 130,
+        "western-share": 10.032362459547,
+        "non-western-share": 42.071197411003,
+        "immigrant-share": 52.10355987055,
+        "non-immigrant-share": 47.89644012945
+    },
+    "02191408": {
+        "western-count": 131,
+        "non-western-count": 94,
+        "western-share": 29.111111111111,
+        "non-western-share": 20.888888888889,
+        "immigrant-share": 50,
+        "non-immigrant-share": 50
+    },
+    "02191409": {
+        "western-count": 138,
+        "non-western-count": 392,
+        "western-share": 17.898832684825,
+        "non-western-share": 50.843060959792,
+        "immigrant-share": 68.741893644617,
+        "non-immigrant-share": 31.258106355383
+    },
+    "02191410": {
+        "western-count": 88,
+        "non-western-count": 78,
+        "western-share": 22.680412371134,
+        "non-western-share": 20.103092783505,
+        "immigrant-share": 42.783505154639,
+        "non-immigrant-share": 57.216494845361
+    },
+    "02191411": {
+        "western-count": 78,
+        "non-western-count": 73,
+        "western-share": 21.971830985915,
+        "non-western-share": 20.56338028169,
+        "immigrant-share": 42.535211267606,
+        "non-immigrant-share": 57.464788732394
+    },
+    "02191412": {
+        "western-count": "-",
+        "non-western-count": "-",
+        "western-share": 0,
+        "non-western-share": 0,
+        "immigrant-share": 0,
+        "non-immigrant-share": 100
+    },
+    "02191413": {
+        "western-count": 75,
+        "non-western-count": 277,
+        "western-share": 14.822134387352,
+        "non-western-share": 54.743083003953,
+        "immigrant-share": 69.565217391304,
+        "non-immigrant-share": 30.434782608696
+    },
+    "02191414": {
+        "western-count": 62,
+        "non-western-count": 93,
+        "western-share": 11.854684512428,
+        "non-western-share": 17.782026768642,
+        "immigrant-share": 29.636711281071,
+        "non-immigrant-share": 70.363288718929
+    },
+    "02191415": {
+        "western-count": 63,
+        "non-western-count": 41,
+        "western-share": 14.189189189189,
+        "non-western-share": 9.2342342342342,
+        "immigrant-share": 23.423423423423,
+        "non-immigrant-share": 76.576576576577
+    },
+    "02191416": {
+        "western-count": 42,
+        "non-western-count": 29,
+        "western-share": 21.875,
+        "non-western-share": 15.104166666667,
+        "immigrant-share": 36.979166666667,
+        "non-immigrant-share": 63.020833333333
+    },
+    "02191417": {
+        "western-count": 50,
+        "non-western-count": 41,
+        "western-share": 17.985611510791,
+        "non-western-share": 14.748201438849,
+        "immigrant-share": 32.73381294964,
+        "non-immigrant-share": 67.26618705036
+    },
+    "02191420": {
+        "western-count": 15,
+        "non-western-count": 3,
+        "western-share": 25.423728813559,
+        "non-western-share": 5.0847457627119,
+        "immigrant-share": 30.508474576271,
+        "non-immigrant-share": 69.491525423729
+    },
+    "02191421": {
+        "western-count": 42,
+        "non-western-count": 23,
+        "western-share": 28.767123287671,
+        "non-western-share": 15.753424657534,
+        "immigrant-share": 44.520547945205,
+        "non-immigrant-share": 55.479452054795
+    },
+    "02191501": {
+        "western-count": 37,
+        "non-western-count": 19,
+        "western-share": 26.241134751773,
+        "non-western-share": 13.475177304965,
+        "immigrant-share": 39.716312056738,
+        "non-immigrant-share": 60.283687943262
+    },
+    "02191502": {
+        "western-count": 44,
+        "non-western-count": 35,
+        "western-share": 36.363636363636,
+        "non-western-share": 28.925619834711,
+        "immigrant-share": 65.289256198347,
+        "non-immigrant-share": 34.710743801653
+    },
+    "02191503": {
+        "western-count": 43,
+        "non-western-count": 47,
+        "western-share": 18.454935622318,
+        "non-western-share": 20.171673819742,
+        "immigrant-share": 38.62660944206,
+        "non-immigrant-share": 61.37339055794
+    },
+    "02191504": {
+        "western-count": 48,
+        "non-western-count": 48,
+        "western-share": 28.070175438596,
+        "non-western-share": 28.070175438596,
+        "immigrant-share": 56.140350877193,
+        "non-immigrant-share": 43.859649122807
+    },
+    "02191505": {
+        "western-count": 83,
+        "non-western-count": 61,
+        "western-share": 25.776397515528,
+        "non-western-share": 18.944099378882,
+        "immigrant-share": 44.72049689441,
+        "non-immigrant-share": 55.27950310559
+    },
+    "02191506": {
+        "western-count": 73,
+        "non-western-count": 53,
+        "western-share": 24.579124579125,
+        "non-western-share": 17.845117845118,
+        "immigrant-share": 42.424242424242,
+        "non-immigrant-share": 57.575757575758
+    },
+    "02191507": {
+        "western-count": 33,
+        "non-western-count": 17,
+        "western-share": 15.865384615385,
+        "non-western-share": 8.1730769230769,
+        "immigrant-share": 24.038461538462,
+        "non-immigrant-share": 75.961538461538
+    },
+    "02191508": {
+        "western-count": 31,
+        "non-western-count": 37,
+        "western-share": 22.794117647059,
+        "non-western-share": 27.205882352941,
+        "immigrant-share": 50,
+        "non-immigrant-share": 50
+    },
+    "02191509": {
+        "western-count": 26,
+        "non-western-count": 35,
+        "western-share": 20.472440944882,
+        "non-western-share": 27.55905511811,
+        "immigrant-share": 48.031496062992,
+        "non-immigrant-share": 51.968503937008
+    },
+    "02191510": {
+        "western-count": 32,
+        "non-western-count": 65,
+        "western-share": 17.777777777778,
+        "non-western-share": 36.111111111111,
+        "immigrant-share": 53.888888888889,
+        "non-immigrant-share": 46.111111111111
+    },
+    "02191511": {
+        "western-count": 24,
+        "non-western-count": 41,
+        "western-share": 13.872832369942,
+        "non-western-share": 23.699421965318,
+        "immigrant-share": 37.57225433526,
+        "non-immigrant-share": 62.42774566474
+    },
+    "02191512": {
+        "western-count": 92,
+        "non-western-count": 65,
+        "western-share": 24.468085106383,
+        "non-western-share": 17.287234042553,
+        "immigrant-share": 41.755319148936,
+        "non-immigrant-share": 58.244680851064
+    },
+    "02191513": {
+        "western-count": 45,
+        "non-western-count": 92,
+        "western-share": 17.716535433071,
+        "non-western-share": 36.220472440945,
+        "immigrant-share": 53.937007874016,
+        "non-immigrant-share": 46.062992125984
+    },
+    "02191514": {
+        "western-count": "-",
+        "non-western-count": "-",
+        "western-share": 0,
+        "non-western-share": "-",
+        "immigrant-share": "-",
+        "non-immigrant-share": "-"
+    },
+    "02191515": {
+        "western-count": 187,
+        "non-western-count": 484,
+        "western-share": 13.976083707025,
+        "non-western-share": 36.173393124066,
+        "immigrant-share": 50.149476831091,
+        "non-immigrant-share": 49.850523168909
+    },
+    "02191516": {
+        "western-count": 8,
+        "non-western-count": "-",
+        "western-share": 72.727272727273,
+        "non-western-share": 0,
+        "immigrant-share": 72.727272727273,
+        "non-immigrant-share": 27.272727272727
+    },
+    "02191602": {
+        "western-count": 19,
+        "non-western-count": 152,
+        "western-share": 9.5,
+        "non-western-share": 76,
+        "immigrant-share": 85.5,
+        "non-immigrant-share": 14.5
+    },
+    "02191603": {
+        "western-count": 23,
+        "non-western-count": 151,
+        "western-share": 10.952380952381,
+        "non-western-share": 71.904761904762,
+        "immigrant-share": 82.857142857143,
+        "non-immigrant-share": 17.142857142857
+    },
+    "02191604": {
+        "western-count": 32,
+        "non-western-count": 187,
+        "western-share": 10.42345276873,
+        "non-western-share": 60.912052117264,
+        "immigrant-share": 71.335504885993,
+        "non-immigrant-share": 28.664495114007
+    },
+    "02191605": {
+        "western-count": 53,
+        "non-western-count": 155,
+        "western-share": 13.350125944584,
+        "non-western-share": 39.04282115869,
+        "immigrant-share": 52.392947103275,
+        "non-immigrant-share": 47.607052896725
+    },
+    "02191606": {
+        "western-count": 34,
+        "non-western-count": 30,
+        "western-share": 28.333333333333,
+        "non-western-share": 25,
+        "immigrant-share": 53.333333333333,
+        "non-immigrant-share": 46.666666666667
+    },
+    "02191607": {
+        "western-count": 42,
+        "non-western-count": 62,
+        "western-share": 19.004524886878,
+        "non-western-share": 28.054298642534,
+        "immigrant-share": 47.058823529412,
+        "non-immigrant-share": 52.941176470588
+    },
+    "02191608": {
+        "western-count": 64,
+        "non-western-count": 40,
+        "western-share": 20.18927444795,
+        "non-western-share": 12.618296529968,
+        "immigrant-share": 32.807570977918,
+        "non-immigrant-share": 67.192429022082
+    },
+    "02191609": {
+        "western-count": 103,
+        "non-western-count": 39,
+        "western-share": 22.198275862069,
+        "non-western-share": 8.4051724137931,
+        "immigrant-share": 30.603448275862,
+        "non-immigrant-share": 69.396551724138
+    },
+    "02191610": {
+        "western-count": 60,
+        "non-western-count": 27,
+        "western-share": 19.736842105263,
+        "non-western-share": 8.8815789473684,
+        "immigrant-share": 28.618421052632,
+        "non-immigrant-share": 71.381578947368
+    },
+    "02191611": {
+        "western-count": 62,
+        "non-western-count": 47,
+        "western-share": 23.396226415094,
+        "non-western-share": 17.735849056604,
+        "immigrant-share": 41.132075471698,
+        "non-immigrant-share": 58.867924528302
+    },
+    "02191612": {
+        "western-count": 103,
+        "non-western-count": 49,
+        "western-share": 22.787610619469,
+        "non-western-share": 10.840707964602,
+        "immigrant-share": 33.628318584071,
+        "non-immigrant-share": 66.371681415929
+    },
+    "02191613": {
+        "western-count": 139,
+        "non-western-count": 115,
+        "western-share": 21.92429022082,
+        "non-western-share": 18.13880126183,
+        "immigrant-share": 40.06309148265,
+        "non-immigrant-share": 59.93690851735
+    },
+    "02191614": {
+        "western-count": 33,
+        "non-western-count": 87,
+        "western-share": 14.601769911504,
+        "non-western-share": 38.495575221239,
+        "immigrant-share": 53.097345132743,
+        "non-immigrant-share": 46.902654867257
+    },
+    "02191615": {
+        "western-count": 113,
+        "non-western-count": 40,
+        "western-share": 23.395445134576,
+        "non-western-share": 8.2815734989648,
+        "immigrant-share": 31.67701863354,
+        "non-immigrant-share": 68.32298136646
+    },
+    "02191616": {
+        "western-count": 57,
+        "non-western-count": 31,
+        "western-share": 18.506493506494,
+        "non-western-share": 10.064935064935,
+        "immigrant-share": 28.571428571429,
+        "non-immigrant-share": 71.428571428571
+    },
+    "02191617": {
+        "western-count": 252,
+        "non-western-count": 79,
+        "western-share": 24.207492795389,
+        "non-western-share": 7.5888568683958,
+        "immigrant-share": 31.796349663785,
+        "non-immigrant-share": 68.203650336215
+    },
+    "02191618": {
+        "western-count": 137,
+        "non-western-count": 98,
+        "western-share": 21.642969984202,
+        "non-western-share": 15.481832543444,
+        "immigrant-share": 37.124802527646,
+        "non-immigrant-share": 62.875197472354
+    },
+    "02191619": {
+        "western-count": 62,
+        "non-western-count": 172,
+        "western-share": 16.80216802168,
+        "non-western-share": 46.612466124661,
+        "immigrant-share": 63.414634146341,
+        "non-immigrant-share": 36.585365853659
+    },
+    "02191620": {
+        "western-count": 79,
+        "non-western-count": 173,
+        "western-share": 21.409214092141,
+        "non-western-share": 46.883468834688,
+        "immigrant-share": 68.292682926829,
+        "non-immigrant-share": 31.707317073171
+    },
+    "02191701": {
+        "western-count": 54,
+        "non-western-count": 85,
+        "western-share": 18.881118881119,
+        "non-western-share": 29.72027972028,
+        "immigrant-share": 48.601398601399,
+        "non-immigrant-share": 51.398601398601
+    },
+    "02191702": {
+        "western-count": 29,
+        "non-western-count": 68,
+        "western-share": 15.508021390374,
+        "non-western-share": 36.363636363636,
+        "immigrant-share": 51.871657754011,
+        "non-immigrant-share": 48.128342245989
+    },
+    "02191703": {
+        "western-count": 46,
+        "non-western-count": 128,
+        "western-share": 17.293233082707,
+        "non-western-share": 48.12030075188,
+        "immigrant-share": 65.413533834586,
+        "non-immigrant-share": 34.586466165414
+    },
+    "02191704": {
+        "western-count": 7,
+        "non-western-count": 3,
+        "western-share": 5.7851239669421,
+        "non-western-share": 2.4793388429752,
+        "immigrant-share": 8.2644628099174,
+        "non-immigrant-share": 91.735537190083
+    },
+    "02191705": {
+        "western-count": 9,
+        "non-western-count": 10,
+        "western-share": 15,
+        "non-western-share": 16.666666666667,
+        "immigrant-share": 31.666666666667,
+        "non-immigrant-share": 68.333333333333
+    },
+    "02191706": {
+        "western-count": 39,
+        "non-western-count": 53,
+        "western-share": 15.116279069767,
+        "non-western-share": 20.542635658915,
+        "immigrant-share": 35.658914728682,
+        "non-immigrant-share": 64.341085271318
+    },
+    "02191708": {
+        "western-count": 80,
+        "non-western-count": 413,
+        "western-share": 12.158054711246,
+        "non-western-share": 62.765957446809,
+        "immigrant-share": 74.924012158055,
+        "non-immigrant-share": 25.075987841945
+    },
+    "02191709": {
+        "western-count": "-",
+        "non-western-count": "-",
+        "western-share": "-",
+        "non-western-share": 0,
+        "immigrant-share": "-",
+        "non-immigrant-share": "-"
+    },
+    "02191710": {
+        "western-count": 28,
+        "non-western-count": 76,
+        "western-share": 14.070351758794,
+        "non-western-share": 38.190954773869,
+        "immigrant-share": 52.261306532663,
+        "non-immigrant-share": 47.738693467337
+    },
+    "02191711": {
+        "western-count": 112,
+        "non-western-count": 52,
+        "western-share": 27.184466019417,
+        "non-western-share": 12.621359223301,
+        "immigrant-share": 39.805825242718,
+        "non-immigrant-share": 60.194174757282
+    },
+    "02191712": {
+        "western-count": 71,
+        "non-western-count": 55,
+        "western-share": 18.983957219251,
+        "non-western-share": 14.705882352941,
+        "immigrant-share": 33.689839572193,
+        "non-immigrant-share": 66.310160427807
+    },
+    "02191713": {
+        "western-count": 43,
+        "non-western-count": 85,
+        "western-share": 17.842323651452,
+        "non-western-share": 35.269709543568,
+        "immigrant-share": 53.112033195021,
+        "non-immigrant-share": 46.887966804979
+    },
+    "02191714": {
+        "western-count": 93,
+        "non-western-count": 176,
+        "western-share": 14.88,
+        "non-western-share": 28.16,
+        "immigrant-share": 43.04,
+        "non-immigrant-share": 56.96
+    },
+    "02191715": {
+        "western-count": 7,
+        "non-western-count": "-",
+        "western-share": 87.5,
+        "non-western-share": "-",
+        "immigrant-share": "-",
+        "non-immigrant-share": "-"
+    },
+    "02191716": {
+        "western-count": 33,
+        "non-western-count": 35,
+        "western-share": 22.448979591837,
+        "non-western-share": 23.809523809524,
+        "immigrant-share": 46.258503401361,
+        "non-immigrant-share": 53.741496598639
+    },
+    "02191801": {
+        "western-count": 49,
+        "non-western-count": 20,
+        "western-share": 19.444444444444,
+        "non-western-share": 7.9365079365079,
+        "immigrant-share": 27.380952380952,
+        "non-immigrant-share": 72.619047619048
+    },
+    "02191802": {
+        "western-count": 57,
+        "non-western-count": 16,
+        "western-share": 17.43119266055,
+        "non-western-share": 4.8929663608563,
+        "immigrant-share": 22.324159021407,
+        "non-immigrant-share": 77.675840978593
+    },
+    "02191803": {
+        "western-count": 6,
+        "non-western-count": 4,
+        "western-share": 5.8823529411765,
+        "non-western-share": 3.921568627451,
+        "immigrant-share": 9.8039215686275,
+        "non-immigrant-share": 90.196078431373
+    },
+    "02191804": {
+        "western-count": 10,
+        "non-western-count": "-",
+        "western-share": 16.393442622951,
+        "non-western-share": "-",
+        "immigrant-share": "-",
+        "non-immigrant-share": "-"
+    },
+    "02191805": {
+        "western-count": 10,
+        "non-western-count": 33,
+        "western-share": 6.993006993007,
+        "non-western-share": 23.076923076923,
+        "immigrant-share": 30.06993006993,
+        "non-immigrant-share": 69.93006993007
+    },
+    "02191806": {
+        "western-count": 17,
+        "non-western-count": 16,
+        "western-share": 15.044247787611,
+        "non-western-share": 14.159292035398,
+        "immigrant-share": 29.203539823009,
+        "non-immigrant-share": 70.796460176991
+    },
+    "02191807": {
+        "western-count": 9,
+        "non-western-count": 17,
+        "western-share": 10.46511627907,
+        "non-western-share": 19.767441860465,
+        "immigrant-share": 30.232558139535,
+        "non-immigrant-share": 69.767441860465
+    },
+    "02191808": {
+        "western-count": 17,
+        "non-western-count": 4,
+        "western-share": 13.492063492063,
+        "non-western-share": 3.1746031746032,
+        "immigrant-share": 16.666666666667,
+        "non-immigrant-share": 83.333333333333
+    },
+    "02191809": {
+        "western-count": 29,
+        "non-western-count": 12,
+        "western-share": 19.86301369863,
+        "non-western-share": 8.2191780821918,
+        "immigrant-share": 28.082191780822,
+        "non-immigrant-share": 71.917808219178
+    },
+    "02191810": {
+        "western-count": 22,
+        "non-western-count": 67,
+        "western-share": 9.9099099099099,
+        "non-western-share": 30.18018018018,
+        "immigrant-share": 40.09009009009,
+        "non-immigrant-share": 59.90990990991
+    },
+    "02191811": {
+        "western-count": 86,
+        "non-western-count": 69,
+        "western-share": 22.751322751323,
+        "non-western-share": 18.253968253968,
+        "immigrant-share": 41.005291005291,
+        "non-immigrant-share": 58.994708994709
+    },
+    "02191812": {
+        "western-count": 52,
+        "non-western-count": 18,
+        "western-share": 15.950920245399,
+        "non-western-share": 5.521472392638,
+        "immigrant-share": 21.472392638037,
+        "non-immigrant-share": 78.527607361963
+    },
+    "02191813": {
+        "western-count": 98,
+        "non-western-count": 44,
+        "western-share": 23.90243902439,
+        "non-western-share": 10.731707317073,
+        "immigrant-share": 34.634146341463,
+        "non-immigrant-share": 65.365853658537
+    },
+    "02191814": {
+        "western-count": 30,
+        "non-western-count": 53,
+        "western-share": 16.483516483516,
+        "non-western-share": 29.120879120879,
+        "immigrant-share": 45.604395604396,
+        "non-immigrant-share": 54.395604395604
+    },
+    "02191815": {
+        "western-count": 53,
+        "non-western-count": 20,
+        "western-share": 20.384615384615,
+        "non-western-share": 7.6923076923077,
+        "immigrant-share": 28.076923076923,
+        "non-immigrant-share": 71.923076923077
+    },
+    "02191816": {
+        "western-count": 130,
+        "non-western-count": 62,
+        "western-share": 24.856596558317,
+        "non-western-share": 11.854684512428,
+        "immigrant-share": 36.711281070746,
+        "non-immigrant-share": 63.288718929254
+    },
+    "02191817": {
+        "western-count": 10,
+        "non-western-count": 3,
+        "western-share": 29.411764705882,
+        "non-western-share": 8.8235294117647,
+        "immigrant-share": 38.235294117647,
+        "non-immigrant-share": 61.764705882353
+    },
+    "02191818": {
+        "western-count": 37,
+        "non-western-count": 14,
+        "western-share": 20,
+        "non-western-share": 7.5675675675676,
+        "immigrant-share": 27.567567567568,
+        "non-immigrant-share": 72.432432432432
+    },
+    "02191819": {
+        "western-count": 97,
+        "non-western-count": 9,
+        "western-share": 21.555555555556,
+        "non-western-share": 2,
+        "immigrant-share": 23.555555555556,
+        "non-immigrant-share": 76.444444444444
+    },
+    "02191820": {
+        "western-count": 88,
+        "non-western-count": 78,
+        "western-share": 19.686800894855,
+        "non-western-share": 17.44966442953,
+        "immigrant-share": 37.136465324385,
+        "non-immigrant-share": 62.863534675615
+    },
+    "02191821": {
+        "western-count": 83,
+        "non-western-count": 122,
+        "western-share": 15.660377358491,
+        "non-western-share": 23.018867924528,
+        "immigrant-share": 38.679245283019,
+        "non-immigrant-share": 61.320754716981
+    },
+    "02191901": {
+        "western-count": 32,
+        "non-western-count": 64,
+        "western-share": 18.285714285714,
+        "non-western-share": 36.571428571429,
+        "immigrant-share": 54.857142857143,
+        "non-immigrant-share": 45.142857142857
+    },
+    "02191902": {
+        "western-count": 9,
+        "non-western-count": 5,
+        "western-share": 12.328767123288,
+        "non-western-share": 6.8493150684932,
+        "immigrant-share": 19.178082191781,
+        "non-immigrant-share": 80.821917808219
+    },
+    "02191903": {
+        "western-count": 68,
+        "non-western-count": 55,
+        "western-share": 16.425120772947,
+        "non-western-share": 13.285024154589,
+        "immigrant-share": 29.710144927536,
+        "non-immigrant-share": 70.289855072464
+    },
+    "02191904": {
+        "western-count": 39,
+        "non-western-count": 30,
+        "western-share": 17.256637168142,
+        "non-western-share": 13.274336283186,
+        "immigrant-share": 30.530973451327,
+        "non-immigrant-share": 69.469026548673
+    },
+    "02191906": {
+        "western-count": 12,
+        "non-western-count": 7,
+        "western-share": 20.689655172414,
+        "non-western-share": 12.068965517241,
+        "immigrant-share": 32.758620689655,
+        "non-immigrant-share": 67.241379310345
+    },
+    "02191907": {
+        "western-count": 41,
+        "non-western-count": 91,
+        "western-share": 13.225806451613,
+        "non-western-share": 29.354838709677,
+        "immigrant-share": 42.58064516129,
+        "non-immigrant-share": 57.41935483871
+    },
+    "02191908": {
+        "western-count": 33,
+        "non-western-count": 21,
+        "western-share": 16.5,
+        "non-western-share": 10.5,
+        "immigrant-share": 27,
+        "non-immigrant-share": 73
+    },
+    "02191909": {
+        "western-count": 54,
+        "non-western-count": 170,
+        "western-share": 13.846153846154,
+        "non-western-share": 43.589743589744,
+        "immigrant-share": 57.435897435897,
+        "non-immigrant-share": 42.564102564103
+    },
+    "02191910": {
+        "western-count": 40,
+        "non-western-count": 110,
+        "western-share": 13.071895424837,
+        "non-western-share": 35.947712418301,
+        "immigrant-share": 49.019607843137,
+        "non-immigrant-share": 50.980392156863
+    },
+    "02191911": {
+        "western-count": 28,
+        "non-western-count": 111,
+        "western-share": 9.3333333333333,
+        "non-western-share": 37,
+        "immigrant-share": 46.333333333333,
+        "non-immigrant-share": 53.666666666667
+    },
+    "02191912": {
+        "western-count": 37,
+        "non-western-count": 51,
+        "western-share": 19.57671957672,
+        "non-western-share": 26.984126984127,
+        "immigrant-share": 46.560846560847,
+        "non-immigrant-share": 53.439153439153
+    },
+    "02191913": {
+        "western-count": 68,
+        "non-western-count": 35,
+        "western-share": 20.543806646526,
+        "non-western-share": 10.574018126888,
+        "immigrant-share": 31.117824773414,
+        "non-immigrant-share": 68.882175226586
+    },
+    "02191915": {
+        "western-count": 45,
+        "non-western-count": 362,
+        "western-share": 9.0725806451613,
+        "non-western-share": 72.983870967742,
+        "immigrant-share": 82.056451612903,
+        "non-immigrant-share": 17.943548387097
+    },
+    "02191916": {
+        "western-count": 39,
+        "non-western-count": 108,
+        "western-share": 13.928571428571,
+        "non-western-share": 38.571428571429,
+        "immigrant-share": 52.5,
+        "non-immigrant-share": 47.5
+    },
+    "02191917": {
+        "western-count": 41,
+        "non-western-count": 189,
+        "western-share": 10.275689223058,
+        "non-western-share": 47.368421052632,
+        "immigrant-share": 57.644110275689,
+        "non-immigrant-share": 42.355889724311
+    },
+    "02191918": {
+        "western-count": 55,
+        "non-western-count": 105,
+        "western-share": 19.642857142857,
+        "non-western-share": 37.5,
+        "immigrant-share": 57.142857142857,
+        "non-immigrant-share": 42.857142857143
+    },
+    "02191919": {
+        "western-count": 46,
+        "non-western-count": 70,
+        "western-share": 18.473895582329,
+        "non-western-share": 28.112449799197,
+        "immigrant-share": 46.586345381526,
+        "non-immigrant-share": 53.413654618474
+    },
+    "02191920": {
+        "western-count": 51,
+        "non-western-count": 55,
+        "western-share": 16.139240506329,
+        "non-western-share": 17.405063291139,
+        "immigrant-share": 33.544303797468,
+        "non-immigrant-share": 66.455696202532
+    },
+    "02191921": {
+        "western-count": 56,
+        "non-western-count": 85,
+        "western-share": 13.053613053613,
+        "non-western-share": 19.81351981352,
+        "immigrant-share": 32.867132867133,
+        "non-immigrant-share": 67.132867132867
+    },
+    "02191922": {
+        "western-count": 35,
+        "non-western-count": 22,
+        "western-share": 14.17004048583,
+        "non-western-share": 8.9068825910931,
+        "immigrant-share": 23.076923076923,
+        "non-immigrant-share": 76.923076923077
+    },
+    "02191923": {
+        "western-count": 51,
+        "non-western-count": 60,
+        "western-share": 13.672922252011,
+        "non-western-share": 16.085790884718,
+        "immigrant-share": 29.758713136729,
+        "non-immigrant-share": 70.241286863271
+    },
+    "02191924": {
+        "western-count": 6,
+        "non-western-count": 23,
+        "western-share": 5.2173913043478,
+        "non-western-share": 20,
+        "immigrant-share": 25.217391304348,
+        "non-immigrant-share": 74.782608695652
+    },
+    "02191925": {
+        "western-count": 88,
+        "non-western-count": 54,
+        "western-share": 18.295218295218,
+        "non-western-share": 11.226611226611,
+        "immigrant-share": 29.52182952183,
+        "non-immigrant-share": 70.47817047817
+    },
+    "02191926": {
+        "western-count": 61,
+        "non-western-count": 106,
+        "western-share": 16.052631578947,
+        "non-western-share": 27.894736842105,
+        "immigrant-share": 43.947368421053,
+        "non-immigrant-share": 56.052631578947
+    },
+    "02191927": {
+        "western-count": 94,
+        "non-western-count": 43,
+        "western-share": 16.998191681736,
+        "non-western-share": 7.7757685352622,
+        "immigrant-share": 24.773960216998,
+        "non-immigrant-share": 75.226039783002
+    },
+    "02191928": {
+        "western-count": 9,
+        "non-western-count": 19,
+        "western-share": 12.328767123288,
+        "non-western-share": 26.027397260274,
+        "immigrant-share": 38.356164383562,
+        "non-immigrant-share": 61.643835616438
+    },
+    "02191929": {
+        "western-count": 232,
+        "non-western-count": 127,
+        "western-share": 23.481781376518,
+        "non-western-share": 12.854251012146,
+        "immigrant-share": 36.336032388664,
+        "non-immigrant-share": 63.663967611336
+    },
+    "02191930": {
+        "western-count": "-",
+        "non-western-count": "-",
+        "western-share": "-",
+        "non-western-share": 0,
+        "immigrant-share": "-",
+        "non-immigrant-share": "-"
+    },
+    "02191932": {
+        "western-count": 65,
+        "non-western-count": 19,
+        "western-share": 22.260273972603,
+        "non-western-share": 6.5068493150685,
+        "immigrant-share": 28.767123287671,
+        "non-immigrant-share": 71.232876712329
+    },
+    "02191933": {
+        "western-count": 9,
+        "non-western-count": 13,
+        "western-share": 15.51724137931,
+        "non-western-share": 22.413793103448,
+        "immigrant-share": 37.931034482759,
+        "non-immigrant-share": 62.068965517241
+    },
+    "02191934": {
+        "western-count": 17,
+        "non-western-count": 10,
+        "western-share": 26.984126984127,
+        "non-western-share": 15.873015873016,
+        "immigrant-share": 42.857142857143,
+        "non-immigrant-share": 57.142857142857
+    },
+    "02191935": {
+        "western-count": 30,
+        "non-western-count": 7,
+        "western-share": 49.180327868852,
+        "non-western-share": 11.475409836066,
+        "immigrant-share": 60.655737704918,
+        "non-immigrant-share": 39.344262295082
+    },
+    "02192001": {
+        "western-count": 77,
+        "non-western-count": 143,
+        "western-share": 18.509615384615,
+        "non-western-share": 34.375,
+        "immigrant-share": 52.884615384615,
+        "non-immigrant-share": 47.115384615385
+    },
+    "02192002": {
+        "western-count": 78,
+        "non-western-count": 47,
+        "western-share": 30,
+        "non-western-share": 18.076923076923,
+        "immigrant-share": 48.076923076923,
+        "non-immigrant-share": 51.923076923077
+    },
+    "02192003": {
+        "western-count": 24,
+        "non-western-count": 17,
+        "western-share": 22.018348623853,
+        "non-western-share": 15.596330275229,
+        "immigrant-share": 37.614678899083,
+        "non-immigrant-share": 62.385321100917
+    },
+    "02192004": {
+        "western-count": 50,
+        "non-western-count": 20,
+        "western-share": 25.773195876289,
+        "non-western-share": 10.309278350515,
+        "immigrant-share": 36.082474226804,
+        "non-immigrant-share": 63.917525773196
+    },
+    "02192005": {
+        "western-count": 46,
+        "non-western-count": 23,
+        "western-share": 17.490494296578,
+        "non-western-share": 8.745247148289,
+        "immigrant-share": 26.235741444867,
+        "non-immigrant-share": 73.764258555133
+    },
+    "02192007": {
+        "western-count": 43,
+        "non-western-count": 55,
+        "western-share": 17.991631799163,
+        "non-western-share": 23.012552301255,
+        "immigrant-share": 41.004184100418,
+        "non-immigrant-share": 58.995815899582
+    },
+    "02192008": {
+        "western-count": 38,
+        "non-western-count": 11,
+        "western-share": 19.191919191919,
+        "non-western-share": 5.5555555555556,
+        "immigrant-share": 24.747474747475,
+        "non-immigrant-share": 75.252525252525
+    },
+    "02192009": {
+        "western-count": 9,
+        "non-western-count": 5,
+        "western-share": 29.032258064516,
+        "non-western-share": 16.129032258065,
+        "immigrant-share": 45.161290322581,
+        "non-immigrant-share": 54.838709677419
+    },
+    "02192010": {
+        "western-count": 98,
+        "non-western-count": 131,
+        "western-share": 18.955512572534,
+        "non-western-share": 25.338491295938,
+        "immigrant-share": 44.294003868472,
+        "non-immigrant-share": 55.705996131528
+    },
+    "02192011": {
+        "western-count": 36,
+        "non-western-count": 69,
+        "western-share": 16.51376146789,
+        "non-western-share": 31.651376146789,
+        "immigrant-share": 48.165137614679,
+        "non-immigrant-share": 51.834862385321
+    },
+    "02192012": {
+        "western-count": 87,
+        "non-western-count": 55,
+        "western-share": 21.065375302663,
+        "non-western-share": 13.317191283293,
+        "immigrant-share": 34.382566585956,
+        "non-immigrant-share": 65.617433414044
+    },
+    "02192013": {
+        "western-count": 52,
+        "non-western-count": 82,
+        "western-share": 19.771863117871,
+        "non-western-share": 31.178707224335,
+        "immigrant-share": 50.950570342205,
+        "non-immigrant-share": 49.049429657795
+    },
+    "02192014": {
+        "western-count": 71,
+        "non-western-count": 20,
+        "western-share": 25.818181818182,
+        "non-western-share": 7.2727272727273,
+        "immigrant-share": 33.090909090909,
+        "non-immigrant-share": 66.909090909091
+    },
+    "02192015": {
+        "western-count": 25,
+        "non-western-count": 3,
+        "western-share": 26.881720430108,
+        "non-western-share": 3.2258064516129,
+        "immigrant-share": 30.10752688172,
+        "non-immigrant-share": 69.89247311828
+    },
+    "02192016": {
+        "western-count": 69,
+        "non-western-count": 33,
+        "western-share": 25.090909090909,
+        "non-western-share": 12,
+        "immigrant-share": 37.090909090909,
+        "non-immigrant-share": 62.909090909091
+    },
+    "02192017": {
+        "western-count": 34,
+        "non-western-count": 11,
+        "western-share": 30.088495575221,
+        "non-western-share": 9.7345132743363,
+        "immigrant-share": 39.823008849558,
+        "non-immigrant-share": 60.176991150442
+    },
+    "02192018": {
+        "western-count": 71,
+        "non-western-count": 21,
+        "western-share": 24.149659863946,
+        "non-western-share": 7.1428571428571,
+        "immigrant-share": 31.292517006803,
+        "non-immigrant-share": 68.707482993197
+    },
+    "02192019": {
+        "western-count": 4,
+        "non-western-count": "-",
+        "western-share": 22.222222222222,
+        "non-western-share": "-",
+        "immigrant-share": "-",
+        "non-immigrant-share": "-"
+    },
+    "02192101": {
+        "western-count": 54,
+        "non-western-count": 17,
+        "western-share": 36.486486486486,
+        "non-western-share": 11.486486486486,
+        "immigrant-share": 47.972972972973,
+        "non-immigrant-share": 52.027027027027
+    },
+    "02192106": {
+        "western-count": 44,
+        "non-western-count": 59,
+        "western-share": 17.054263565891,
+        "non-western-share": 22.868217054264,
+        "immigrant-share": 39.922480620155,
+        "non-immigrant-share": 60.077519379845
+    },
+    "02192107": {
+        "western-count": 74,
+        "non-western-count": 14,
+        "western-share": 23.566878980892,
+        "non-western-share": 4.4585987261146,
+        "immigrant-share": 28.025477707006,
+        "non-immigrant-share": 71.974522292994
+    },
+    "02192108": {
+        "western-count": 107,
+        "non-western-count": 33,
+        "western-share": 18.608695652174,
+        "non-western-share": 5.7391304347826,
+        "immigrant-share": 24.347826086957,
+        "non-immigrant-share": 75.652173913043
+    },
+    "02192109": {
+        "western-count": 28,
+        "non-western-count": 17,
+        "western-share": 15.819209039548,
+        "non-western-share": 9.6045197740113,
+        "immigrant-share": 25.423728813559,
+        "non-immigrant-share": 74.576271186441
+    },
+    "02192110": {
+        "western-count": 37,
+        "non-western-count": 14,
+        "western-share": 23.270440251572,
+        "non-western-share": 8.8050314465409,
+        "immigrant-share": 32.075471698113,
+        "non-immigrant-share": 67.924528301887
+    },
+    "02192111": {
+        "western-count": 26,
+        "non-western-count": 16,
+        "western-share": 15.294117647059,
+        "non-western-share": 9.4117647058824,
+        "immigrant-share": 24.705882352941,
+        "non-immigrant-share": 75.294117647059
+    },
+    "02192112": {
+        "western-count": 86,
+        "non-western-count": 91,
+        "western-share": 15.00872600349,
+        "non-western-share": 15.881326352531,
+        "immigrant-share": 30.890052356021,
+        "non-immigrant-share": 69.109947643979
+    },
+    "02192113": {
+        "western-count": 117,
+        "non-western-count": 26,
+        "western-share": 24.683544303797,
+        "non-western-share": 5.4852320675105,
+        "immigrant-share": 30.168776371308,
+        "non-immigrant-share": 69.831223628692
+    },
+    "02192114": {
+        "western-count": 142,
+        "non-western-count": 43,
+        "western-share": 19.137466307278,
+        "non-western-share": 5.7951482479784,
+        "immigrant-share": 24.932614555256,
+        "non-immigrant-share": 75.067385444744
+    },
+    "02192115": {
+        "western-count": 16,
+        "non-western-count": 6,
+        "western-share": 25.396825396825,
+        "non-western-share": 9.5238095238095,
+        "immigrant-share": 34.920634920635,
+        "non-immigrant-share": 65.079365079365
+    },
+    "02192116": {
+        "western-count": 46,
+        "non-western-count": 13,
+        "western-share": 21.596244131455,
+        "non-western-share": 6.1032863849765,
+        "immigrant-share": 27.699530516432,
+        "non-immigrant-share": 72.300469483568
+    },
+    "02192117": {
+        "western-count": 75,
+        "non-western-count": 27,
+        "western-share": 20.775623268698,
+        "non-western-share": 7.4792243767313,
+        "immigrant-share": 28.254847645429,
+        "non-immigrant-share": 71.745152354571
+    },
+    "02192118": {
+        "western-count": 45,
+        "non-western-count": 16,
+        "western-share": 18.828451882845,
+        "non-western-share": 6.6945606694561,
+        "immigrant-share": 25.523012552301,
+        "non-immigrant-share": 74.476987447699
+    },
+    "02192119": {
+        "western-count": 80,
+        "non-western-count": 9,
+        "western-share": 23.32361516035,
+        "non-western-share": 2.6239067055394,
+        "immigrant-share": 25.947521865889,
+        "non-immigrant-share": 74.052478134111
+    },
+    "02192120": {
+        "western-count": 162,
+        "non-western-count": 255,
+        "western-share": 17.980022197558,
+        "non-western-share": 28.301886792453,
+        "immigrant-share": 46.281908990011,
+        "non-immigrant-share": 53.718091009989
+    },
+    "02192121": {
+        "western-count": 77,
+        "non-western-count": 46,
+        "western-share": 19.693094629156,
+        "non-western-share": 11.764705882353,
+        "immigrant-share": 31.457800511509,
+        "non-immigrant-share": 68.542199488491
+    },
+    "02192122": {
+        "western-count": 36,
+        "non-western-count": 6,
+        "western-share": 18.181818181818,
+        "non-western-share": 3.030303030303,
+        "immigrant-share": 21.212121212121,
+        "non-immigrant-share": 78.787878787879
+    },
+    "02192123": {
+        "western-count": 119,
+        "non-western-count": 141,
+        "western-share": 17.171717171717,
+        "non-western-share": 20.34632034632,
+        "immigrant-share": 37.518037518038,
+        "non-immigrant-share": 62.481962481962
+    },
+    "02192201": {
+        "western-count": 34,
+        "non-western-count": 11,
+        "western-share": 44.736842105263,
+        "non-western-share": 14.473684210526,
+        "immigrant-share": 59.210526315789,
+        "non-immigrant-share": 40.789473684211
+    },
+    "02192202": {
+        "western-count": 136,
+        "non-western-count": 53,
+        "western-share": 23.089983022071,
+        "non-western-share": 8.9983022071307,
+        "immigrant-share": 32.088285229202,
+        "non-immigrant-share": 67.911714770798
+    },
+    "02192203": {
+        "western-count": 47,
+        "non-western-count": 5,
+        "western-share": 18.725099601594,
+        "non-western-share": 1.99203187251,
+        "immigrant-share": 20.717131474104,
+        "non-immigrant-share": 79.282868525896
+    },
+    "02192204": {
+        "western-count": 72,
+        "non-western-count": 29,
+        "western-share": 18.701298701299,
+        "non-western-share": 7.5324675324675,
+        "immigrant-share": 26.233766233766,
+        "non-immigrant-share": 73.766233766234
+    },
+    "02192206": {
+        "western-count": 67,
+        "non-western-count": 19,
+        "western-share": 26.070038910506,
+        "non-western-share": 7.3929961089494,
+        "immigrant-share": 33.463035019455,
+        "non-immigrant-share": 66.536964980545
+    },
+    "02192207": {
+        "western-count": 58,
+        "non-western-count": 9,
+        "western-share": 21.804511278195,
+        "non-western-share": 3.3834586466165,
+        "immigrant-share": 25.187969924812,
+        "non-immigrant-share": 74.812030075188
+    },
+    "02192209": {
+        "western-count": 111,
+        "non-western-count": 25,
+        "western-share": 23.717948717949,
+        "non-western-share": 5.3418803418803,
+        "immigrant-share": 29.059829059829,
+        "non-immigrant-share": 70.940170940171
+    },
+    "02192210": {
+        "western-count": 73,
+        "non-western-count": 14,
+        "western-share": 23.472668810289,
+        "non-western-share": 4.5016077170418,
+        "immigrant-share": 27.974276527331,
+        "non-immigrant-share": 72.025723472669
+    },
+    "02192211": {
+        "western-count": 252,
+        "non-western-count": 75,
+        "western-share": 23.055809698079,
+        "non-western-share": 6.8618481244282,
+        "immigrant-share": 29.917657822507,
+        "non-immigrant-share": 70.082342177493
+    },
+    "02192212": {
+        "western-count": 256,
+        "non-western-count": 59,
+        "western-share": 26.501035196687,
+        "non-western-share": 6.1076604554865,
+        "immigrant-share": 32.608695652174,
+        "non-immigrant-share": 67.391304347826
+    },
+    "02199999": {
+        "western-count": 172,
+        "non-western-count": 73,
+        "western-share": 54.952076677316,
+        "non-western-share": 23.32268370607,
+        "immigrant-share": 78.274760383387,
+        "non-immigrant-share": 21.725239616613
+    },
+    "02200101": {
+        "western-count": 244,
+        "non-western-count": 70,
+        "western-share": 28.438228438228,
+        "non-western-share": 8.1585081585082,
+        "immigrant-share": 36.596736596737,
+        "non-immigrant-share": 63.403263403263
+    },
+    "02200102": {
+        "western-count": 118,
+        "non-western-count": 30,
+        "western-share": 29.353233830846,
+        "non-western-share": 7.4626865671642,
+        "immigrant-share": 36.81592039801,
+        "non-immigrant-share": 63.18407960199
+    },
+    "02200103": {
+        "western-count": 394,
+        "non-western-count": 104,
+        "western-share": 29.961977186312,
+        "non-western-share": 7.9087452471483,
+        "immigrant-share": 37.87072243346,
+        "non-immigrant-share": 62.12927756654
+    },
+    "02200104": {
+        "western-count": 499,
+        "non-western-count": 185,
+        "western-share": 27.402526084569,
+        "non-western-share": 10.159253157606,
+        "immigrant-share": 37.561779242175,
+        "non-immigrant-share": 62.438220757825
+    },
+    "02200105": {
+        "western-count": 31,
+        "non-western-count": 16,
+        "western-share": 20,
+        "non-western-share": 10.322580645161,
+        "immigrant-share": 30.322580645161,
+        "non-immigrant-share": 69.677419354839
+    },
+    "02200201": {
+        "western-count": 138,
+        "non-western-count": 42,
+        "western-share": 27.935222672065,
+        "non-western-share": 8.502024291498,
+        "immigrant-share": 36.437246963563,
+        "non-immigrant-share": 63.562753036437
+    },
+    "02200202": {
+        "western-count": 180,
+        "non-western-count": 50,
+        "western-share": 25.210084033613,
+        "non-western-share": 7.0028011204482,
+        "immigrant-share": 32.212885154062,
+        "non-immigrant-share": 67.787114845938
+    },
+    "02200203": {
+        "western-count": 374,
+        "non-western-count": 180,
+        "western-share": 25.304465493911,
+        "non-western-share": 12.178619756428,
+        "immigrant-share": 37.483085250338,
+        "non-immigrant-share": 62.516914749662
+    },
+    "02200204": {
+        "western-count": 123,
+        "non-western-count": 29,
+        "western-share": 26.973684210526,
+        "non-western-share": 6.359649122807,
+        "immigrant-share": 33.333333333333,
+        "non-immigrant-share": 66.666666666667
+    },
+    "02200205": {
+        "western-count": 207,
+        "non-western-count": 136,
+        "western-share": 23.820483314154,
+        "non-western-share": 15.650172612198,
+        "immigrant-share": 39.470655926352,
+        "non-immigrant-share": 60.529344073648
+    },
+    "02200301": {
+        "western-count": 200,
+        "non-western-count": 203,
+        "western-share": 22.12389380531,
+        "non-western-share": 22.455752212389,
+        "immigrant-share": 44.579646017699,
+        "non-immigrant-share": 55.420353982301
+    },
+    "02200302": {
+        "western-count": 338,
+        "non-western-count": 121,
+        "western-share": 25.037037037037,
+        "non-western-share": 8.962962962963,
+        "immigrant-share": 34,
+        "non-immigrant-share": 66
+    },
+    "02200303": {
+        "western-count": 149,
+        "non-western-count": 53,
+        "western-share": 20.299727520436,
+        "non-western-share": 7.2207084468665,
+        "immigrant-share": 27.520435967302,
+        "non-immigrant-share": 72.479564032698
+    },
+    "02200304": {
+        "western-count": 135,
+        "non-western-count": 76,
+        "western-share": 25.046382189239,
+        "non-western-share": 14.100185528757,
+        "immigrant-share": 39.146567717996,
+        "non-immigrant-share": 60.853432282004
+    },
+    "02200305": {
+        "western-count": 91,
+        "non-western-count": 61,
+        "western-share": 32.269503546099,
+        "non-western-share": 21.631205673759,
+        "immigrant-share": 53.900709219858,
+        "non-immigrant-share": 46.099290780142
+    },
+    "02200404": {
+        "western-count": 13,
+        "non-western-count": 4,
+        "western-share": 24.074074074074,
+        "non-western-share": 7.4074074074074,
+        "immigrant-share": 31.481481481481,
+        "non-immigrant-share": 68.518518518519
+    },
+    "02200405": {
+        "western-count": 73,
+        "non-western-count": 16,
+        "western-share": 35.78431372549,
+        "non-western-share": 7.843137254902,
+        "immigrant-share": 43.627450980392,
+        "non-immigrant-share": 56.372549019608
+    },
+    "02200406": {
+        "western-count": 156,
+        "non-western-count": 83,
+        "western-share": 24.413145539906,
+        "non-western-share": 12.989045383412,
+        "immigrant-share": 37.402190923318,
+        "non-immigrant-share": 62.597809076682
+    },
+    "02200407": {
+        "western-count": 166,
+        "non-western-count": 52,
+        "western-share": 27.620632279534,
+        "non-western-share": 8.6522462562396,
+        "immigrant-share": 36.272878535774,
+        "non-immigrant-share": 63.727121464226
+    },
+    "02200409": {
+        "western-count": 205,
+        "non-western-count": 88,
+        "western-share": 26.181353767561,
+        "non-western-share": 11.238825031928,
+        "immigrant-share": 37.420178799489,
+        "non-immigrant-share": 62.579821200511
+    },
+    "02200410": {
+        "western-count": 6,
+        "non-western-count": "-",
+        "western-share": 100,
+        "non-western-share": 0,
+        "immigrant-share": 100,
+        "non-immigrant-share": 0
+    },
+    "02200502": {
+        "western-count": 27,
+        "non-western-count": 8,
+        "western-share": 31.034482758621,
+        "non-western-share": 9.1954022988506,
+        "immigrant-share": 40.229885057471,
+        "non-immigrant-share": 59.770114942529
+    },
+    "02200504": {
+        "western-count": 95,
+        "non-western-count": 34,
+        "western-share": 21.205357142857,
+        "non-western-share": 7.5892857142857,
+        "immigrant-share": 28.794642857143,
+        "non-immigrant-share": 71.205357142857
+    },
+    "02200505": {
+        "western-count": 99,
+        "non-western-count": 24,
+        "western-share": 28.285714285714,
+        "non-western-share": 6.8571428571429,
+        "immigrant-share": 35.142857142857,
+        "non-immigrant-share": 64.857142857143
+    },
+    "02200506": {
+        "western-count": 71,
+        "non-western-count": 25,
+        "western-share": 15.919282511211,
+        "non-western-share": 5.6053811659193,
+        "immigrant-share": 21.52466367713,
+        "non-immigrant-share": 78.47533632287
+    },
+    "02200507": {
+        "western-count": 112,
+        "non-western-count": 36,
+        "western-share": 23.829787234043,
+        "non-western-share": 7.6595744680851,
+        "immigrant-share": 31.489361702128,
+        "non-immigrant-share": 68.510638297872
+    },
+    "02200508": {
+        "western-count": 100,
+        "non-western-count": 33,
+        "western-share": 23.584905660377,
+        "non-western-share": 7.7830188679245,
+        "immigrant-share": 31.367924528302,
+        "non-immigrant-share": 68.632075471698
+    },
+    "02200509": {
+        "western-count": 31,
+        "non-western-count": 23,
+        "western-share": 25,
+        "non-western-share": 18.548387096774,
+        "immigrant-share": 43.548387096774,
+        "non-immigrant-share": 56.451612903226
+    },
+    "02200601": {
+        "western-count": "-",
+        "non-western-count": "-",
+        "western-share": 0,
+        "non-western-share": 0,
+        "immigrant-share": 0,
+        "non-immigrant-share": 100
+    },
+    "02200602": {
+        "western-count": 191,
+        "non-western-count": 113,
+        "western-share": 17.900656044986,
+        "non-western-share": 10.590440487348,
+        "immigrant-share": 28.491096532334,
+        "non-immigrant-share": 71.508903467666
+    },
+    "02200702": {
+        "western-count": 87,
+        "non-western-count": 20,
+        "western-share": 27.018633540373,
+        "non-western-share": 6.2111801242236,
+        "immigrant-share": 33.229813664596,
+        "non-immigrant-share": 66.770186335404
+    },
+    "02200703": {
+        "western-count": 162,
+        "non-western-count": 69,
+        "western-share": 20.957309184994,
+        "non-western-share": 8.9262613195343,
+        "immigrant-share": 29.883570504528,
+        "non-immigrant-share": 70.116429495472
+    },
+    "02200704": {
+        "western-count": 154,
+        "non-western-count": 146,
+        "western-share": 24.679487179487,
+        "non-western-share": 23.397435897436,
+        "immigrant-share": 48.076923076923,
+        "non-immigrant-share": 51.923076923077
+    },
+    "02200705": {
+        "western-count": 121,
+        "non-western-count": 58,
+        "western-share": 25.103734439834,
+        "non-western-share": 12.033195020747,
+        "immigrant-share": 37.136929460581,
+        "non-immigrant-share": 62.863070539419
+    },
+    "02200801": {
+        "western-count": 140,
+        "non-western-count": 130,
+        "western-share": 21.406727828746,
+        "non-western-share": 19.877675840979,
+        "immigrant-share": 41.284403669725,
+        "non-immigrant-share": 58.715596330275
+    },
+    "02200802": {
+        "western-count": 135,
+        "non-western-count": 60,
+        "western-share": 24.861878453039,
+        "non-western-share": 11.049723756906,
+        "immigrant-share": 35.911602209945,
+        "non-immigrant-share": 64.088397790055
+    },
+    "02200803": {
+        "western-count": 90,
+        "non-western-count": 75,
+        "western-share": 17.786561264822,
+        "non-western-share": 14.822134387352,
+        "immigrant-share": 32.608695652174,
+        "non-immigrant-share": 67.391304347826
+    },
+    "02200804": {
+        "western-count": 85,
+        "non-western-count": 85,
+        "western-share": 25.525525525526,
+        "non-western-share": 25.525525525526,
+        "immigrant-share": 51.051051051051,
+        "non-immigrant-share": 48.948948948949
+    },
+    "02200805": {
+        "western-count": 241,
+        "non-western-count": 65,
+        "western-share": 25,
+        "non-western-share": 6.7427385892116,
+        "immigrant-share": 31.742738589212,
+        "non-immigrant-share": 68.257261410788
+    },
+    "02200806": {
+        "western-count": 141,
+        "non-western-count": 78,
+        "western-share": 21.860465116279,
+        "non-western-share": 12.093023255814,
+        "immigrant-share": 33.953488372093,
+        "non-immigrant-share": 66.046511627907
+    },
+    "02200807": {
+        "western-count": 97,
+        "non-western-count": 141,
+        "western-share": 20.250521920668,
+        "non-western-share": 29.436325678497,
+        "immigrant-share": 49.686847599165,
+        "non-immigrant-share": 50.313152400835
+    },
+    "02200808": {
+        "western-count": 123,
+        "non-western-count": 65,
+        "western-share": 18.088235294118,
+        "non-western-share": 9.5588235294118,
+        "immigrant-share": 27.647058823529,
+        "non-immigrant-share": 72.352941176471
+    },
+    "02200901": {
+        "western-count": 104,
+        "non-western-count": 27,
+        "western-share": 26.943005181347,
+        "non-western-share": 6.9948186528497,
+        "immigrant-share": 33.937823834197,
+        "non-immigrant-share": 66.062176165803
+    },
+    "02200902": {
+        "western-count": 94,
+        "non-western-count": 90,
+        "western-share": 20.042643923241,
+        "non-western-share": 19.189765458422,
+        "immigrant-share": 39.232409381663,
+        "non-immigrant-share": 60.767590618337
+    },
+    "02200903": {
+        "western-count": 257,
+        "non-western-count": 151,
+        "western-share": 20.078125,
+        "non-western-share": 11.796875,
+        "immigrant-share": 31.875,
+        "non-immigrant-share": 68.125
+    },
+    "02200904": {
+        "western-count": 28,
+        "non-western-count": 43,
+        "western-share": 9.8939929328622,
+        "non-western-share": 15.194346289753,
+        "immigrant-share": 25.088339222615,
+        "non-immigrant-share": 74.911660777385
+    },
+    "02200906": {
+        "western-count": "-",
+        "non-western-count": "-",
+        "western-share": "-",
+        "non-western-share": 0,
+        "immigrant-share": "-",
+        "non-immigrant-share": "-"
+    },
+    "02200907": {
+        "western-count": 76,
+        "non-western-count": 115,
+        "western-share": 18.627450980392,
+        "non-western-share": 28.186274509804,
+        "immigrant-share": 46.813725490196,
+        "non-immigrant-share": 53.186274509804
+    },
+    "02201001": {
+        "western-count": 379,
+        "non-western-count": 227,
+        "western-share": 19.780793319415,
+        "non-western-share": 11.847599164927,
+        "immigrant-share": 31.628392484342,
+        "non-immigrant-share": 68.371607515658
+    },
+    "02201003": {
+        "western-count": 41,
+        "non-western-count": 27,
+        "western-share": 24.698795180723,
+        "non-western-share": 16.265060240964,
+        "immigrant-share": 40.963855421687,
+        "non-immigrant-share": 59.036144578313
+    },
+    "02201005": {
+        "western-count": 119,
+        "non-western-count": 107,
+        "western-share": 17.682020802377,
+        "non-western-share": 15.898959881129,
+        "immigrant-share": 33.580980683507,
+        "non-immigrant-share": 66.419019316493
+    },
+    "02201006": {
+        "western-count": 237,
+        "non-western-count": 225,
+        "western-share": 20.698689956332,
+        "non-western-share": 19.650655021834,
+        "immigrant-share": 40.349344978166,
+        "non-immigrant-share": 59.650655021834
+    },
+    "02201007": {
+        "western-count": 158,
+        "non-western-count": 176,
+        "western-share": 18.329466357309,
+        "non-western-share": 20.417633410673,
+        "immigrant-share": 38.747099767981,
+        "non-immigrant-share": 61.252900232019
+    },
+    "02201101": {
+        "western-count": 45,
+        "non-western-count": 21,
+        "western-share": 16.423357664234,
+        "non-western-share": 7.6642335766423,
+        "immigrant-share": 24.087591240876,
+        "non-immigrant-share": 75.912408759124
+    },
+    "02201102": {
+        "western-count": 115,
+        "non-western-count": 77,
+        "western-share": 21.335807050093,
+        "non-western-share": 14.285714285714,
+        "immigrant-share": 35.621521335807,
+        "non-immigrant-share": 64.378478664193
+    },
+    "02201103": {
+        "western-count": 171,
+        "non-western-count": 50,
+        "western-share": 20.752427184466,
+        "non-western-share": 6.0679611650485,
+        "immigrant-share": 26.820388349515,
+        "non-immigrant-share": 73.179611650485
+    },
+    "02201104": {
+        "western-count": 211,
+        "non-western-count": 88,
+        "western-share": 19.482917820868,
+        "non-western-share": 8.1255771006464,
+        "immigrant-share": 27.608494921514,
+        "non-immigrant-share": 72.391505078486
+    },
+    "02201105": {
+        "western-count": 196,
+        "non-western-count": 99,
+        "western-share": 21.681415929204,
+        "non-western-share": 10.951327433628,
+        "immigrant-share": 32.632743362832,
+        "non-immigrant-share": 67.367256637168
+    },
+    "02201106": {
+        "western-count": 174,
+        "non-western-count": 113,
+        "western-share": 21.969696969697,
+        "non-western-share": 14.267676767677,
+        "immigrant-share": 36.237373737374,
+        "non-immigrant-share": 63.762626262626
+    },
+    "02201107": {
+        "western-count": 95,
+        "non-western-count": 41,
+        "western-share": 17.05565529623,
+        "non-western-share": 7.3608617594255,
+        "immigrant-share": 24.416517055655,
+        "non-immigrant-share": 75.583482944345
+    },
+    "02201108": {
+        "western-count": 161,
+        "non-western-count": 133,
+        "western-share": 15.815324165029,
+        "non-western-share": 13.064833005894,
+        "immigrant-share": 28.880157170923,
+        "non-immigrant-share": 71.119842829077
+    },
+    "02201203": {
+        "western-count": 124,
+        "non-western-count": 94,
+        "western-share": 19.776714513557,
+        "non-western-share": 14.992025518341,
+        "immigrant-share": 34.768740031898,
+        "non-immigrant-share": 65.231259968102
+    },
+    "02201204": {
+        "western-count": 142,
+        "non-western-count": 108,
+        "western-share": 17.317073170732,
+        "non-western-share": 13.170731707317,
+        "immigrant-share": 30.487804878049,
+        "non-immigrant-share": 69.512195121951
+    },
+    "02201205": {
+        "western-count": 67,
+        "non-western-count": 595,
+        "western-share": 8.3023543990087,
+        "non-western-share": 73.729863692689,
+        "immigrant-share": 82.032218091698,
+        "non-immigrant-share": 17.967781908302
+    },
+    "02201206": {
+        "western-count": 112,
+        "non-western-count": 596,
+        "western-share": 10.6463878327,
+        "non-western-share": 56.653992395437,
+        "immigrant-share": 67.300380228137,
+        "non-immigrant-share": 32.699619771863
+    },
+    "02201207": {
+        "western-count": 71,
+        "non-western-count": 234,
+        "western-share": 13.733075435203,
+        "non-western-share": 45.261121856867,
+        "immigrant-share": 58.99419729207,
+        "non-immigrant-share": 41.00580270793
+    },
+    "02201208": {
+        "western-count": 94,
+        "non-western-count": 126,
+        "western-share": 19.583333333333,
+        "non-western-share": 26.25,
+        "immigrant-share": 45.833333333333,
+        "non-immigrant-share": 54.166666666667
+    },
+    "02201209": {
+        "western-count": 193,
+        "non-western-count": 88,
+        "western-share": 20.932754880694,
+        "non-western-share": 9.5444685466377,
+        "immigrant-share": 30.477223427332,
+        "non-immigrant-share": 69.522776572668
+    },
+    "02201210": {
+        "western-count": 63,
+        "non-western-count": 102,
+        "western-share": 20.521172638436,
+        "non-western-share": 33.224755700326,
+        "immigrant-share": 53.745928338762,
+        "non-immigrant-share": 46.254071661238
+    },
+    "02201301": {
+        "western-count": 221,
+        "non-western-count": 170,
+        "western-share": 24.39293598234,
+        "non-western-share": 18.763796909492,
+        "immigrant-share": 43.156732891832,
+        "non-immigrant-share": 56.843267108168
+    },
+    "02201302": {
+        "western-count": "-",
+        "non-western-count": "-",
+        "western-share": "-",
+        "non-western-share": "-",
+        "immigrant-share": "-",
+        "non-immigrant-share": "-"
+    },
+    "02201303": {
+        "western-count": 146,
+        "non-western-count": 64,
+        "western-share": 21.470588235294,
+        "non-western-share": 9.4117647058824,
+        "immigrant-share": 30.882352941176,
+        "non-immigrant-share": 69.117647058824
+    },
+    "02201304": {
+        "western-count": 125,
+        "non-western-count": 74,
+        "western-share": 21.929824561404,
+        "non-western-share": 12.982456140351,
+        "immigrant-share": 34.912280701754,
+        "non-immigrant-share": 65.087719298246
+    },
+    "02201305": {
+        "western-count": 177,
+        "non-western-count": 185,
+        "western-share": 18.380062305296,
+        "non-western-share": 19.210799584631,
+        "immigrant-share": 37.590861889927,
+        "non-immigrant-share": 62.409138110073
+    },
+    "02201306": {
+        "western-count": 100,
+        "non-western-count": 40,
+        "western-share": 22.831050228311,
+        "non-western-share": 9.1324200913242,
+        "immigrant-share": 31.963470319635,
+        "non-immigrant-share": 68.036529680365
+    },
+    "02201401": {
+        "western-count": 368,
+        "non-western-count": 78,
+        "western-share": 26.570397111913,
+        "non-western-share": 5.6317689530686,
+        "immigrant-share": 32.202166064982,
+        "non-immigrant-share": 67.797833935018
+    },
+    "02201402": {
+        "western-count": 287,
+        "non-western-count": 95,
+        "western-share": 23.543888433142,
+        "non-western-share": 7.7932731747334,
+        "immigrant-share": 31.337161607875,
+        "non-immigrant-share": 68.662838392125
+    },
+    "02201403": {
+        "western-count": 114,
+        "non-western-count": 52,
+        "western-share": 22.44094488189,
+        "non-western-share": 10.236220472441,
+        "immigrant-share": 32.677165354331,
+        "non-immigrant-share": 67.322834645669
+    },
+    "02201404": {
+        "western-count": 340,
+        "non-western-count": 184,
+        "western-share": 23.792862141358,
+        "non-western-share": 12.876137158852,
+        "immigrant-share": 36.66899930021,
+        "non-immigrant-share": 63.33100069979
+    },
+    "02201502": {
+        "western-count": 218,
+        "non-western-count": 115,
+        "western-share": 22.10953346856,
+        "non-western-share": 11.663286004057,
+        "immigrant-share": 33.772819472617,
+        "non-immigrant-share": 66.227180527383
+    },
+    "02201503": {
+        "western-count": 137,
+        "non-western-count": 107,
+        "western-share": 16.466346153846,
+        "non-western-share": 12.860576923077,
+        "immigrant-share": 29.326923076923,
+        "non-immigrant-share": 70.673076923077
+    },
+    "02201504": {
+        "western-count": 127,
+        "non-western-count": 86,
+        "western-share": 19.659442724458,
+        "non-western-share": 13.312693498452,
+        "immigrant-share": 32.97213622291,
+        "non-immigrant-share": 67.02786377709
+    },
+    "02201505": {
+        "western-count": 159,
+        "non-western-count": 165,
+        "western-share": 19.156626506024,
+        "non-western-share": 19.879518072289,
+        "immigrant-share": 39.036144578313,
+        "non-immigrant-share": 60.963855421687
+    },
+    "02201506": {
+        "western-count": 86,
+        "non-western-count": 80,
+        "western-share": 18.454935622318,
+        "non-western-share": 17.167381974249,
+        "immigrant-share": 35.622317596567,
+        "non-immigrant-share": 64.377682403433
+    },
+    "02201507": {
+        "western-count": 36,
+        "non-western-count": 21,
+        "western-share": 16.363636363636,
+        "non-western-share": 9.5454545454545,
+        "immigrant-share": 25.909090909091,
+        "non-immigrant-share": 74.090909090909
+    },
+    "02201508": {
+        "western-count": "-",
+        "non-western-count": 0,
+        "western-share": "-",
+        "non-western-share": 0,
+        "immigrant-share": "-",
+        "non-immigrant-share": "-"
+    },
+    "02201509": {
+        "western-count": 18,
+        "non-western-count": "-",
+        "western-share": 48.648648648649,
+        "non-western-share": "-",
+        "immigrant-share": "-",
+        "non-immigrant-share": "-"
+    },
+    "02201510": {
+        "western-count": 65,
+        "non-western-count": 20,
+        "western-share": 23.214285714286,
+        "non-western-share": 7.1428571428571,
+        "immigrant-share": 30.357142857143,
+        "non-immigrant-share": 69.642857142857
+    },
+    "02201511": {
+        "western-count": 228,
+        "non-western-count": 73,
+        "western-share": 26.057142857143,
+        "non-western-share": 8.3428571428571,
+        "immigrant-share": 34.4,
+        "non-immigrant-share": 65.6
+    },
+    "02201512": {
+        "western-count": 57,
+        "non-western-count": 66,
+        "western-share": 17.014925373134,
+        "non-western-share": 19.701492537313,
+        "immigrant-share": 36.716417910448,
+        "non-immigrant-share": 63.283582089552
+    },
+    "02201601": {
+        "western-count": 45,
+        "non-western-count": 16,
+        "western-share": 24.064171122995,
+        "non-western-share": 8.5561497326203,
+        "immigrant-share": 32.620320855615,
+        "non-immigrant-share": 67.379679144385
+    },
+    "02201602": {
+        "western-count": 75,
+        "non-western-count": 31,
+        "western-share": 28.089887640449,
+        "non-western-share": 11.610486891386,
+        "immigrant-share": 39.700374531835,
+        "non-immigrant-share": 60.299625468165
+    },
+    "02201604": {
+        "western-count": 267,
+        "non-western-count": 98,
+        "western-share": 24.517906336088,
+        "non-western-share": 8.9990817263545,
+        "immigrant-share": 33.516988062443,
+        "non-immigrant-share": 66.483011937557
+    },
+    "02201606": {
+        "western-count": 205,
+        "non-western-count": 125,
+        "western-share": 23.00785634119,
+        "non-western-share": 14.029180695847,
+        "immigrant-share": 37.037037037037,
+        "non-immigrant-share": 62.962962962963
+    },
+    "02201607": {
+        "western-count": 102,
+        "non-western-count": 161,
+        "western-share": 20,
+        "non-western-share": 31.56862745098,
+        "immigrant-share": 51.56862745098,
+        "non-immigrant-share": 48.43137254902
+    },
+    "02209999": {
+        "western-count": 101,
+        "non-western-count": 26,
+        "western-share": 65.161290322581,
+        "non-western-share": 16.774193548387,
+        "immigrant-share": 81.935483870968,
+        "non-immigrant-share": 18.064516129032
+    }
+}
