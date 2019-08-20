@@ -44,12 +44,12 @@ function between(one, two, check) {
 }
 
 function getColor(share) {
-  if (isNaN(share)) return '#FEFCFE';
-  if (between(0, 20, share)) return '#DEB8A8';
-  if (between(20, 40, share)) return '#BECD7E';
-  if (between(40, 60, share)) return '#54BB54';
-  if (between(60, 80, share)) return '#2AA894';
-  if (between(80, 100, share)) return '#003094';
+  if (isNaN(share)) return '#83939B';
+  if (between(0, 20, share)) return '#AE213A';
+  if (between(20, 40, share)) return '#822182';
+  if (between(40, 60, share)) return '#005DA0';
+  if (between(60, 80, share)) return '#EF7D06';
+  if (between(80, 100, share)) return '#00737E';
 }
 
 var myStyle = {
