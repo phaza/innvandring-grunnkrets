@@ -110,7 +110,7 @@
       var nav = L.control({position: 'topright'});
       nav.onAdd = function(map) {
         var div = L.DomUtil.create('div', 'info desc');
-        div.innerHTML = '<p>Zoom inn og trykk på et av de fargede områdene for å se prisene.</p>'
+        div.innerHTML = '<p>Zoom inn og trykk på  de fargede områdene for å se andelen innvandrere.</p>'
         if(L.Browser.mobile) {
           div.innerHTML += '<p class="price">&nbsp;</p>';
           priceP = div.querySelector('.price');
