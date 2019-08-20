@@ -121,7 +121,7 @@ function loadData(url, callback, areas, onMouseOver, onMouseOut) {
         }
         else {
           var onClick = function(e) {
-            onMouseOver(price)(e);
+            onMouseOver(areaText)(e);
   
             layer.once('click', function(e) {
               onMouseOut(e);
