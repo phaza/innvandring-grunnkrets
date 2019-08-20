@@ -204,6 +204,7 @@
 
       loadData('./ab.geojson', function (layer) {
         geo = layer;
+        geo.addTo(map);
       }, areas, onMouseOver, onMouseOut);
 
     })
